@@ -410,3 +410,106 @@ Các đồng minh cũ thất vọng và phẫn nộ tột cùng. Julian, Erick, 
    * PC4: Ký ức về người ông — gợi mở về thân thế thực sự.
    * PC10: Dòng chữ *"Don't repeat my mistake"* — nối tới Chương 4 với Vua Sáng Lập.
 6. **Hộp Gỗ Sồi — biểu tượng xuyên suốt Chương 1:** Xuất hiện ở PC3 (nhận từ Giles), nhắc đến trong độc thoại PC4 (của người ông), và kết thúc chương ở PC10 (đựng Bản thảo dính máu).
+
+---
+
+## 11. CẤU TRÚC TRIỂN KHAI CHƯƠNG 2 — THÁNH ĐỊA HỌC VIỆN (15 PHÂN CẢNH)
+
+> *Mục này ghi lại cách kể chuyện thực tế đã triển khai trong bản prose Chương 2, lưu trong thư mục `final/chuong/chuong-2/`.*
+
+### 11.1 Cấu trúc 15 phân cảnh
+
+| PC | Tựa đề | Dung lượng | Nội dung chính | Kỹ thuật kể chuyện | Vai trò trong mạch chính |
+| --- | --- | --- | --- | --- | --- |
+| **1** | Con đường đến Kinh thành | ~700 dòng | Hành trình từ Osteria đến Eldoria. Xe ngựa chật chội. Cảnh chợ người nợ bị đấu giá. Đến Eldoria. | **Du hành — Quan sát xã hội:** Giới thiệu tương phản giàu-nghèo. Thể hiện bất công xã hội qua hình ảnh sống động. | Thiết lập không gian, thúc đẩy động cơ thay đổi |
+| **2** | Cổng Học viện | ~800 dòng | Vào Học viện Hoàng gia. Hai trường phái. Gặp Julian lần đầu. Bắt nạt. Thách đấu. | **Đối đầu — Giới thiệu địch thủ:** Tả cảnh học viện hai mặt. Julian xuất hiện với uy quyền. | Mở đầu màn đấu trí học viện |
+| **3** | Kẻ xa lạ | ~700 dòng | Louis bảo vệ Julian khỏi bắt nạt. Cuộc đối thoại đầu tiên: ai cũng tò mò về người kia. | **Trinh thám — Quan sát:** Hai kẻ thông minh dò xét lẫn nhau. Cảnh bảo vệ bất ngờ tạo thiện cảm ban đầu. | Gieo mầm liên minh tương lai |
+| **4** | Trận giả lập đầu | ~800 dòng | Bài tập giả lập quân sự. Louis thua Julian vì không hiểu tâm lý chiến trường. | **Đấu trí — Louis thất bại:** Cho thấy Louis không phải toàn năng. Sai lầm vì áp dụng logic hiện đại vào thực tế trung cổ. | Thể hiện điểm yếu, tạo đà cho lật ngược |
+| **5** | Bài toán nạn đói | ~800 dòng | Bài tập vĩ mô của Aldric. Louis dùng Thuyết trò chơi, phá giá tiền tệ, kích thích thương mại. Lật ngược thế cờ. | **Đấu trí — Louis thắng:** Chiến thắng ngoạn mục bằng tri thức hiện đại. Julian lần đầu thừa nhận thất bại. | Đỉnh điểm màn đấu trí, kết thân Julian |
+| **6** | Liên minh đầu tiên | ~700 dòng | Quán rượu "Cái Vạc". Julian và Louis nói chuyện thật lòng. Hai kẻ bị ruồng bỏ. Bắt tay liên minh. | **Cảm xúc — Kết nối nhân vật:** Tâm sự, mở lòng. Julian tiết lộ nỗi đau thân thế. Lời đề nghị liên minh. | Kết nạp thành viên đầu tiên |
+| **7** | Mảnh ghép 300 năm | ~600 dòng | Julian đưa sắc lệnh Vua Sáng Lập. Chữ "Inflation" bằng tiếng Anh. Thông tin về Erick. | **Hồi hộp — Manh mối lịch sử:** Phát hiện đầu tiên về Người Đi Trước. Mở rộng bí ẩn trung tâm. | Cài cắm plot twist vòng lặp |
+| **8** | Thư viện cổ | ~600 dòng | Louis khám phá thư viện cổ. Gặp Helena lần đầu. Cuộc trò chuyện triết học. | **Lãng mạn — Nhẹ nhàng:** Tương phản với những phân cảnh đấu trí căng thẳng. Tạo không gian riêng cho hai người. | Mở đầu mối tình giấu danh phận |
+| **9** | Những đêm thức trắng | ~700 dòng | Một tuần gặp gỡ. Tranh luận triết học. Helena tiết lộ áp lực hôn nhân. Giao kèo "không thân phận". | **Lãng mạn — Sâu lắng:** Phát triển mối quan hệ. Cài cắm sự trớ trêu: họ đang giúp kẻ thù của nhau. | Xây dựng cảm xúc tạo đòn bẩy cho phản bội |
+| **10** | Khu phố Tây | ~600 dòng | Louis tìm Erick trong nhà kho khu ổ chuột. Đối thoại căng thẳng. Erick từ chối. | **Tội phạm — Đường phố:** Không khí tối tăm, mưa, nguy hiểm. Erick là con thú bị thương. | Giới thiệu nhân vật Erick |
+| **11** | Ván cờ bạc | ~700 dòng | Erick đến phòng Louis. Thử thách bằng hợp đồng sai. Louis sửa lỗi mà Erick không thấy. Đồng ý liên minh. | **Đấu trí — Bẫy bị hóa giải:** Erick thử thách → Louis vượt qua xuất sắc → Tôn trọng → Hợp tác. | Kết nạp thành viên thứ hai |
+| **12** | Công chúa chiến binh | ~1.000 dòng | Leonor bắt Louis đến dinh thự. Bài kiểm tra Mattheo. Louis đọc được sự thật. Leonor đề nghị liên minh với thử thách mới. | **Căng thẳng — Uy hiếp:** Leonor áp đảo bằng sức mạnh. Louis đối đáp bình tĩnh. Màn kịch tính dẫn tới thách đấu. | Giới thiệu & thử thách Leonor |
+| **13** | Phiên tòa | ~600 dòng | Louis ra Tòa án Hoàng gia bào chữa cho Mattheo. Dùng sắc lệnh hết hiệu lực để thắng. Leonor trao dao găm. | **Pháp lý — Đấu trí:** Louis dùng kiến thức luật pháp để thắng. Leonor thừa nhận và gia nhập. | Kết nạp thành viên thứ ba |
+| **14** | Khuôn mặt thật | ~800 dòng | Helena gọi Louis gấp. Tiết lộ thân phận thật: con gái Bá tước de la Croix. Hôn nhân sắp đặt với William. Đảo chính sắp xảy ra. | **Cao trào cảm xúc — Bùng nổ thông tin:** Mối tình đối mặt sự thật phũ phàng. Bức tranh toàn cảnh lộ ra. | Cao trào Chương 2 — tiết lộ & kịch tính |
+| **15** | Dưới Cầu Đá Cũ | ~600 dòng | Cuộc họp liên minh bốn người. Phân vai chiến lược. Oak Box đón nhận kỷ vật mới. Kết chương. | **Kết chương — Thiết lập thế cờ:** Liên minh hình thành. Bốn người bốn hướng. Bình minh. | Kết thúc mở, chờ Chương 3 |
+
+### 11.2 Mạch cảm xúc Chương 2
+
+| Giai đoạn | PC | Mạch cảm xúc | Nhịp |
+| --- | --- | --- | --- |
+| **Vào học viện** | 1-3 | Tò mò → Cảnh giác → Cô đơn | Chậm, quan sát |
+| **Đấu trí Julian** | 4-5 | Thất bại → Căng thẳng → Chiến thắng | Dồn dập, leo thang |
+| **Kết nạp Julian** | 6-7 | Kết nối → Phát hiện bí mật | Tĩnh lặng, sâu lắng |
+| **Tình yêu Helena** | 8-9 | Ấm áp → Gắn bó → Sự trớ trêu | Nhẹ nhàng, lãng mạn |
+| **Thu phục Erick** | 10-11 | Căng thẳng → Thử thách → Hợp tác | Tội phạm, kịch tính |
+| **Chinh phục Leonor** | 12-13 | Uy hiếp → Đấu trí → Tôn trọng | Hồi hộp, thử thách |
+| **Cao trào** | 14 | Sốc → Phản bội → Quyết tâm | Bùng nổ, đau đớn |
+| **Kết chương** | 15 | Đoàn kết → Hy vọng → Mở ra | Tĩnh lặng, trang nghiêm |
+
+### 11.3 Nhân vật chính — Trạng thái cuối Chương 2
+
+| Nhân vật | Trạng thái | Mối quan hệ với Louis |
+| --- | --- | --- |
+| **Louis** | Có 3 đồng minh chiến lược, xác định kẻ thù là Đại Công tước, biết về cuộc đảo chính sắp xảy ra. Vẫn đau đớn vì PTSD từ Chương 1. | — |
+| **Julian** | Con riêng của Đại Công tước, gia nhập liên minh. Căm thù cha mình. | Đồng minh chính — bộ não tính toán |
+| **Helena** | Con gái Bá tước de la Croix. Yêu Louis. Sắp bị ép kết hôn với William. | Người yêu bí mật — mối quan hệ phức tạp |
+| **Erick** | Thương nhân buôn lậu / Hoàng tử lưu đày. Đồng ý gia nhập liên minh. | Đồng minh tài chính |
+| **Leonor** | Công chúa chiến binh lưu vong. Đồng ý gia nhập sau phiên tòa Mattheo. | Đồng minh quân sự — còn dè dặt |
+
+### 11.4 Các manh mối & Foreshadowing trong Chương 2
+
+1. **PC1:** Louis thấy một bóng người quen thuộc ở cổng thành nhưng không nhận ra là ai — cài cắm cho Giles tái xuất ở Chương 4.
+2. **PC3:** Julian nói về "một cái bóng của quá khứ" mà hắn theo đuổi — mở ra mạch Vua Sáng Lập.
+3. **PC7:** Sắc lệnh 300 năm với chữ "Inflation" — manh mối về Người Tiền Nhiệm.
+4. **PC9:** Helena vô tình tiết lộ điểm yếu tài chính của gia tộc — Louis vô tình cho giải pháp — cài cắm cho màn đối đầu ở Chương 3-4.
+5. **PC12:** Leonor nói "ta biết ngươi đang đối đầu với Đại Công tước" — cho thấy mạng lưới thông tin đã dò ra Louis.
+6. **PC14:** Helena tiết lộ cuộc đảo chính — đặt nền cho toàn bộ xung đột Chương 3.
+7. **PC15:** Louis đặt chiếc lông chim xanh của Helena vào Oak Box — biểu tượng cho sự pha trộn giữa tính toán lạnh lùng và cảm xúc cá nhân.
+
+### 11.5 Tổng dung lượng Chương 2
+
+| PC | Từ (ước) | Ghi chú |
+| --- | --- | --- |
+| 1 | ~6.675 | Hành trình đến kinh thành |
+| 2 | ~8.371 | Vào Học viện |
+| 3 | ~9.098 | Bảo vệ Julian |
+| 4 | ~6.617 | Trận giả lập đầu |
+| 5 | ~7.508 | Bài toán nạn đói |
+| 6 | ~6.693 | Liên minh Julian |
+| 7 | ~6.139 | Sắc lệnh 300 năm |
+| 8 | ~6.330 | Thư viện cổ |
+| 9 | ~7.068 | Những đêm thức trắng |
+| 10 | ~6.329 | Khu phố Tây |
+| 11 | ~6.567 | Ván cờ bạc |
+| 12 | ~10.981 | Công chúa chiến binh |
+| 13 | ~6.152 | Phiên tòa |
+| 14 | ~8.054 | Khuôn mặt thật |
+| 15 | ~6.411 | Kết chương |
+| **Tổng** | **~109.000 ký tự / ~15.500 từ (ước)** | |
+
+### 11.6 Kết nối cảm xúc Chương 1 → Chương 2
+
+*Đã bổ sung để đảm bảo mạch cảm xúc PTSD xuyên suốt:*
+
+| Vị trí | Nội dung bổ sung | Mục đích |
+| --- | --- | --- |
+| **PC1 Section I (mới)** | Louis không ngủ được 3 đêm ở Osteria. Mỗi lần nhắm mắt thấy hang Hydra. Đến sáng kiệt sức — sự bình tĩnh là do quá mệt, không phải do đã nguôi ngoai. Hắn không ngoảnh đầu lại vì sợ thấy bóng ba người. | Tạo cầu cảm xúc giữa Ch1 (PTSD nặng) và Ch2 (chiến lược). Biến sự "bình tĩnh" của Louis thành *một lựa chọn chủ động, một mặt nạ* — không phải tác giả quên PTSD. |
+| **PC2 Section III (mới)** | Đêm đầu trong ký túc xá, Louis tỉnh dậy 3 lần, mỗi lần cầm dao găm, không biết mình đang ở đâu. Mùi lưu huỳnh ảo giác. Ngồi im đến sáng, không ngủ lại được. *"Mày sẽ quen thôi. Mày không có lựa chọn nào khác."* | Đưa PTSD lên đầu Ch2 thay vì đợi đến PC8 mới nhắc. Cho thấy vết thương vẫn còn đó — Louis chỉ đang học cách sống chung với nó. |
+
+### 11.7 Các vấn đề review & fix tổng thể Chương 2
+
+| Vấn đề | Mức | Fix |
+| --- | --- | --- |
+| Oak Box thiếu Bản thảo Thần học (PC1, PC2) | Cao | Đã thêm vào danh sách đồ trong hộp |
+| Timeline PC8: "hai tuần" không khớp (đáng lẽ là tháng 4+) | Cao | Sửa thành "khoảng một tháng sau khi vào học viện" |
+| Không có cầu cảm xúc PTSD Ch1→Ch2 | Cao | Đã thêm đoạn mở đầu PC1 (mất ngủ, kiệt sức, lựa chọn mặt nạ) |
+| Ác mộng Hydra chỉ xuất hiện ở PC8 (quá muộn) | Trung bình | Đã thêm đêm đầu ký túc xá ở PC2 (tỉnh dậy 3 lần, cầm dao) |
+| Lý do vào học viện chưa rõ | Trung bình | Đã thêm Section IV (nay là V) — Louis cân nhắc 3 lựa chọn chiến lược |
+| Tuyển Erick quá nhanh (PC10→PC11) | Trung bình | Đã thêm Section V PC10: Erick thuê trẻ theo dõi Louis 2 ngày trước khi quyết định gặp |
+| Leonor's voice hơi phân tích | Thấp | Đã rút ngắn thoại: "Khi đổ máu — quân đội biên giới phải đứng đúng phe." Thêm cử chỉ xoay dao găm. |
+| Show Don't Tell PC9: "Louis không biết phải nói gì" | Thấp | Đã thay bằng hành động thể chất (tay khựng, siết rồi buông) + chi tiết email, deadline, tờ giấy nhắn |
+| Cliché "Im lặng nặng nề như tảng đá" (PC14) | Thấp | Thay bằng tiếng nến chảy — từng giọng sáp rơi xuống đĩa đồng như tiếng đếm ngược |
