@@ -1,6 +1,6 @@
 # TỔNG HỢP DỰ ÁN TRUYỆN (BẢN CẬP NHẬT MỚI NHẤT)
 
-> **Tựa đề:** (Chưa đặt tên chính thức)
+> **Tựa đề:** Vương Miện Sắt Biên Thùy- The Frontier Iron Crown
 > **Thể loại:** Isekai (xuyên không), Chính trị - Kinh tế - Đấu trí, Kỳ ảo Trung Cổ, Anti-hero, Dark Fantasy, Vòng lặp bi kịch tiền định (Fated Tragic Loop)
 > **Nhân vật chính:** Louis — người phàm không có ma lực, dùng trí tuệ leo lên ngai vàng
 > **Cấu trúc:** 4 chương lớn, 4 giai đoạn phát triển
