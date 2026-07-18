@@ -6,7 +6,7 @@ Văn phòng tầng bốn mươi bảy của tòa tháp Centennial vẫn sáng đ
 
 Bên ngoài lớp kính cường lực dày mười lăm milimet, thành phố Thượng Hải đang ngủ say dưới màn mưa axit nhẹ và những tấm biển LED khổng lồ vẫn nhấp nháy những quảng cáo tiền điện tử vô hồn. Nhưng bên trong căn phòng kín không cửa sổ với hệ thống điều hòa trung tâm luôn duy trì ở mức hai mươi hai độ C khô khốc, Nguyễn Hoàng Louis — chuyên viên quản trị rủi ro cấp cao của một quỹ đầu tư quốc tế — đang nhìn chằm chằm vào ba màn hình máy tính trải dài trước mặt.
 
-Màn hình thứ nhất: Mô hình Black-Scholes biến động dữ dội, các đường cong giá trị rủi ro (Value at Risk) ngoằn ngoèo đỏ rực.
+Màn hình thứ nhất: Mô hình Black-Scholes biến động dữ dội, các đường cong giá trị rủi ro ngoằn ngoèo đỏ rực.
 
 Màn hình thứ hai: Ba trăm email chưa đọc, một nửa trong số đó là từ cấp trên với dòng tiêu đề viết hoa: *"URGENT: Q3 EXPOSURE RE-EVALUATION REQUESTED BY BOARD"*.
 
@@ -32,11 +32,13 @@ Chẩn đoán y tế hiện ra trong tâm trí Louis một cách lạnh lùng, k
 
 Khuôn mặt anh đập vào bàn phím. Máu bắt đầu rỉ ra từ khóe môi, chảy xuống những phím số, thấm vào những ô dữ liệu trên màn hình Excel. Ánh sáng đèn huỳnh quang trên trần nhà mờ dần, nhòe đi.
 
-Trong giây phút cuối cùng của ý thức, Nguyễn Hoàng Louis — con người đã dành trọn cuộc đời mình để phân tích, tính toán, kiểm soát rủi ro — chỉ kịp nghĩ ra một điều duy nhất: một câu hỏi mơ hồ, vô hình, đau đớn hơn bất kỳ sự sụp đổ thị trường nào.
+Trong giây phút cuối cùng của ý thức, khi tầm nhìn đã tối sầm và hơi thở chỉ còn là những tiếng khò khè yếu ớt, Louis nhìn thấy một thứ kỳ lạ trong tấm kính đen của màn hình tắt — một phản chiếu không phải của căn phòng.
 
-*Mình đã sống để làm gì nhỉ?*
+Một khuôn mặt. Già nua. Với đôi mắt sáng ngời và một nụ cười bí ẩn — một nụ cười vừa quen thuộc vừa xa lạ, như thể anh đã từng thấy nó ở một nơi nào đó rất xa, rất lâu về trước.
 
-Bóng tối nuốt chửng anh.
+Khuôn mặt ấy không thuộc về thế giới này.
+
+Rồi bóng tối nuốt chửng anh.
 
 ---
 
@@ -64,7 +66,7 @@ Những khuôn mặt xa lạ nhìn anh từ mọi phía. Một lũ người gầ
 
 *Đây là một đoàn xe tị nạn. Thế kỷ nào? Châu lục nào?*
 
-Louis cố gắng gom những mảnh ký ức hỗn loạn trong đầu. Anh nhớ về cơn đau ngực, về dòng chữ Excel, về văn phòng làm việc. Ký ức cuối cùng của thế giới cũ là màn hình máy tính nhòe đi, màu xanh nhợt nhạt của màn hình tử vong, và những cốc cà phê vỡ tan.
+Louis cố gắng gom những mảnh ký ức hỗn loạn trong đầu. Anh nhớ về cơn đau ngực, về dòng chữ Excel, về văn phòng làm việc. Ký ức cuối cùng của thế giới cũ là màn hình máy tính nhòe đi, màu xanh nhợt nhạt của màn hình tử vong, những cốc cà phê vỡ tan — và khuôn mặt già nua trong tấm kính.
 
 *Có phải tôi đã chết không?*
 
@@ -72,42 +74,32 @@ Louis cố gắng gom những mảnh ký ức hỗn loạn trong đầu. Anh nh�
 
 *Nhưng tôi vẫn còn ý thức.*
 
+## III.
+
 Louis lặng lẽ lật bàn tay phải lên trước mặt — một bàn tay gầy guộc, lòng bàn tay chai sạn, móng tay dính đầy bụi đất. Không phải bàn tay của anh. Bàn tay đã từng gõ ba trăm email một ngày, vuốt ve màn hình iPhone, viết ký tên trên những hợp đồng tài chính trị giá hàng chục triệu đô la.
 
 Đây là bàn tay của một kẻ khác. Một kẻ nghèo khổ, bệnh tật, thuộc một thế giới khác.
 
 *Đầu thai. Chuyển sinh. Xuyên không. Tất cả những thứ tôi từng đọc trong tiểu thuyết mạng. Chúng là thật.*
 
-Louis nhắm mắt lại. Không hoảng loạn. Không. Đối với một người đã quen đối mặt với những bất định cực đoan của thị trường tài chính, một sự kiện không thể tin nổi chỉ đơn giản là một data point mới, một tham số chưa từng gặp trong mô hình cần được xử lý.
+Anh thở dốc, lồng ngực phập phồng. Một nỗi sợ nguyên thủy — thứ nỗi sợ không thể kiểm soát bằng lý trí — chợt dâng lên trong cổ họng anh. Tay anh bấu chặt vào ván gỗ xe thồ, những ngón tay gầy guộc trắng bệch vì lực siết. Anh muốn hét lên, nhưng cổ họng khô khốc, chỉ phát ra một tiếng khàn khàn yếu ớt.
+
+Phải mất vài phút — Louis không biết chính xác là bao lâu — để nhịp tim anh chậm lại. Anh nhắm mắt, tập trung vào hơi thở. Vào. Ra. Chậm. Đều.
 
 *Thông tin hiện có: Ta ở một thế giới khác. Trong thân xác của một tên tị nạn nghèo khổ. Cơ thể suy dinh dưỡng, bệnh tật. Ngôn ngữ bản địa — cần học. Bối cảnh xã hội — cần tìm hiểu. Mục tiêu trước mắt: Sống sót.*
 
-Louis mở mắt, đôi mắt đen sẫm lúc này không còn sự hoang mang mà thay vào đó là một sự tĩnh lặng đáng sợ. Anh không biết tại sao mình lại ở đây. Anh không biết có thần linh nào đứng sau sự kiện này hay không. Nhưng có một điều anh biết chắc chắn: Không có sự trùng hợp ngẫu nhiên nào trong vũ trụ. Mọi sự kiện đều có nguyên nhân và hệ quả. Và nếu anh đã được đưa đến đây, thì ắt phải có một mục đích — hoặc ít nhất, một cơ hội để sống một cuộc đời khác, thay vì chết như một cái bóng mờ trên sàn văn phòng cao cấp.
+Đôi bàn tay đang run vì sợ từ từ ngừng run. Hơi thở dồn dập trở nên đều đặn. Louis mở mắt. Anh vẫn sợ — nỗi sợ vẫn còn đó, nằm sâu trong bụng như một cục đá lạnh — nhưng nó đã bị đẩy xuống dưới lớp vỏ bọc của sự kiểm soát. Anh không biết tại sao mình lại ở đây. Anh không biết có thần linh nào đứng sau sự kiện này hay không. Anh không biết khuôn mặt già nua trong tấm kính là ai.
+
+Nhưng có một điều anh biết chắc chắn: Không có sự trùng hợp ngẫu nhiên nào trong vũ trụ. Mọi sự kiện đều có nguyên nhân và hệ quả. Và nếu anh đã được đưa đến đây, thì ắt phải có một mục đích — hoặc ít nhất, một cơ hội để sống một cuộc đời khác, thay vì chết như một cái bóng mờ trên sàn văn phòng cao cấp.
 
 *Lần này, tôi sẽ không chết trong vô danh.*
 
-Đó là lời hứa đầu tiên mà Nguyễn Hoàng Louis tự nhủ với bản thân trong thế giới mới — khi chiếc xe tị nạn rệu rã tiếp tục lăn bánh về phía những vách đá vôi trắng xóa của mỏ đá biên thùy, nơi anh sắp bước vào địa ngục trần gian đầu tiên của kiếp sống mới này.
+Đó là lời hứa đầu tiên mà Nguyễn Hoàng Louis tự nhủ với bản thân trong thế giới mới — khi chiếc xe tị nạn rệu rã tiếp tục lăn bánh về phía những vách đá vôi trắng xóa của mỏ đá biên thùy.
 
----
+Rồi anh sờ thấy một thứ trong túi áo — một vật nhỏ, cứng, không phải của anh. Anh lôi nó ra. Một mảnh giấy da nhỏ, cũ kỹ, gấp làm tư, trên đó có vài nét chữ nguệch ngoạc bằng một thứ ngôn ngữ anh không hiểu. Nó nằm trong túi áo của thân xác tị nạn này từ lúc nào — như thể ai đó đã đặt nó vào đó, chờ anh tìm thấy.
 
-## III.
+Louis nhìn mảnh giấy da hồi lâu, rồi cất nó vào túi. Một câu hỏi khác treo lơ lửng trong đầu anh, không lời giải đáp.
 
-Những ngày đầu tiên ở mỏ đá là một cơn ác mộng vật lý thuần túy mà không một mô hình rủi ro nào có thể tính toán trước.
+*Ai đã đặt nó ở đó?*
 
-Louis khám phá ra thân xác mới của mình thuộc về một kẻ tên là "Louis" — một gã thanh niên khoảng hai mươi lăm tuổi xuất thân từ một vương quốc nhỏ phía đông đã bị xóa sổ khỏi bản đồ sau một cuộc chiến tranh. Ký ức của kẻ này chỉ còn lại những mảnh vụn: hình ảnh một ngôi làng bị thiêu rụi, tiếng la hét của phụ nữ trẻ em, và một cuộc chạy trốn dài vô tận trong rừng sâu. Kẻ đó đã chết vì kiệt sức trên đường tị nạn. Và Louis đã chiếm lấy thân xác trống rỗng đó.
-
-Nhưng kiến thức của thế giới cũ vẫn ở lại với anh.
-
-Ngày đầu tiên ở mỏ đá, Louis suýt chết vì kiệt sức sau bốn tiếng khênh đá. Cơ thể ốm yếu của một kẻ tị nạn không thể đáp ứng được những đòi hỏi tàn bạo của lao động chân tay. Anh ngã gục, nôn ra dịch dạ dày màu xanh lợt, và bị đám lính canh đá cho mấy cái vào sườn như đá một con chó chết.
-
-Nhưng mỗi khi nằm trên nền đá ẩm lạnh của lán trại tập thể vào ban đêm, lắng nghe tiếng ho khan, tiếng rên rỉ của những tù nhân khác trong bóng tối, Louis không rơi nước mắt, không tuyệt vọng. Thay vào đó, anh lặng lẽ quan sát.
-
-Anh quan sát thói quen của lũ cai ngục — chúng uống rượu khi nào, chúng đếm quân số ra sao, chúng điểm danh bằng cách nào. Anh quan sát hệ thống hậu cần của mỏ đá — lương thực được vận chuyển từ đâu, muối và nước ngọt được phân phối thế nào, thuế sản lượng được khai báo ra sao. Anh ghi nhớ từng khuôn mặt của những tên lính canh, từ thói quen đánh bạc của chúng đến cách chúng cất chìa khóa kho lương.
-
-Chiếc bộ não của một chuyên viên quản trị rủi ro hiện đại bắt đầu xây dựng một mô hình vĩ mô trong đầu — một ma trận các biến số, rủi ro và điểm yếu của hệ thống mỏ đá biên thùy. Và trong mô hình đó, một cái tên xuất hiện với tần suất cao nhất, điểm yếu rõ ràng nhất, và khả năng khai thác lớn nhất.
-
-Giles — gã cai ngục nát rượu tham lam.
-
-*Cơ hội duy nhất của anh là ở Giles.*
-
-Louis nằm trong bóng tối, mắt mở to nhìn trần lán gỗ mục nát, khóe môi khẽ nhếch lên trong bóng tối. Lần đầu tiên kể từ khi chết ở Thượng Hải, anh cảm thấy một thứ cảm xúc quen thuộc: sự hưng phấn của một ván bài sắp được khai cuộc.
+Và tại sao nó lại khiến anh cảm thấy rằng cái chết ở Thượng Hải không phải là một tai nạn?
