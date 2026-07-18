@@ -1,0 +1,38 @@
+{
+  "$schema": "https://opencode.ai/config.json",
+  "provider": {
+    "omniroute": {
+      "npm": "@ai-sdk/openai-compatible",
+      "name": "OmniRoute",
+      "options": {
+        "baseURL": "https://omniroute.operamind.one/v1",
+        "apiKey": "sk-2de07b41430d9127-9425ff-c54ea959"
+      },
+      "models": {
+        "DEV": {
+          "name": "DEV"
+        }
+      }
+    }
+  },
+  "experimental": {},
+  "formatter": false,
+  "instructions": [".opencode/AGENTS.md"],
+  "lsp": false,
+  "permission": {
+    "bash": "ask",
+    "write": "ask",
+    "edit": "ask"
+  },
+  "subagent_depth": 1,
+  "tools": {},
+  "watcher": {
+    "ignore": [
+      "node_modules/**",
+      ".git/**",
+      "**/.DS_Store",
+      "coverage/**",
+      "dist/**"
+    ]
+  }
+}
