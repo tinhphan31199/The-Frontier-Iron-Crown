@@ -8,7 +8,8 @@ Dưới đây là file tổng hợp dự án truyện đã được bổ sung l�
 > **Thể loại:** Isekai (xuyên không), Chính trị - Kinh tế - Đấu trí, Kỳ ảo Trung Cổ, Anti-hero, Dark Fantasy, Vòng lặp bi kịch tiền định (Fated Tragic Loop)
 > **Nhân vật chính:** Louis — người phàm không có ma lực, dùng trí tuệ leo lên ngai vàng
 > **Cấu trúc:** 4 chương lớn, 4 giai đoạn phát triển
-> **Tình trạng:** Đã hoàn thiện cốt truyện tích hợp mô-típ "Kẻ lập quốc thất bại"
+> **Tổng dung lượng:** ~77.956 từ, 67 phân cảnh
+> **Tình trạng:** Đã hoàn thiện cốt truyện tích hợp mô-típ "Kẻ lập quốc thất bại" + bổ sung luồng nhân vật phụ
 
 ---
 
@@ -23,7 +24,10 @@ Dưới đây là file tổng hợp dự án truyện đã được bổ sung l�
 7. [Chủ đề & Thông điệp xuyên suốt](https://www.google.com/search?q=%237-ch%E1%BB%A7-%C4%91%E1%BB%81--th%C3%B4ng-%C4%91i%E1%BB%87p-xuy%C3%AAn-su%E1%BB%91t)
 8. [Các điểm bổ sung, điều chỉnh & Lưu ý triển khai prose](https://www.google.com/search?q=%238-c%C3%A1c-%C4%91i%E1%BB%83m-b%E1%BB%95-sung-%C4%91i%E1%BB%81u-ch%E1%BB%89nh--l%C6%B0u-%C3%BD-tri%E1%BB%83n-khai-prose)
 9. [Mạch cảm xúc & Cái kết bi tráng](https://www.google.com/search?q=%239-m%E1%BA%A1ch-c%E1%BA%A3m-x%C3%BAc--c%C3%A1i-k%E1%BA%BFt-bi-tr%C3%A1ng)
-10. [Cách kể chuyện — Cấu trúc triển khai Chương 1 (Bản viết lại)](https://www.google.com/search?q=%2310-c%C3%A1ch-k%E1%BB%83-chuy%E1%BB%87n--c%E1%BA%A5u-tr%C3%BAc-tri%E1%BB%83n-khai-ch%C6%B0%C6%A1ng-1-b%E1%BA%A3n-vi%E1%BA%BFt-l%E1%BA%A1i)
+10. [Cách kể chuyện — Cấu trúc triển khai Chương 1](https://www.google.com/search?q=%2310-c%C3%A1ch-k%E1%BB%83-chuy%E1%BB%87n--c%E1%BA%A5u-tr%C3%BAc-tri%E1%BB%83n-khai-ch%C6%B0%C6%A1ng-1)
+11. [Cấu trúc triển khai Chương 2 — Thánh địa Học viện](https://www.google.com/search?q=%2311-c%E1%BA%A5u-tr%C3%BAc-tri%E1%BB%83n-khai-ch%C6%B0%C6%A1ng-2)
+12. [Chương 3 — Thương trường là chiến trường & Rạn nứt liên minh](https://www.google.com/search?q=%2312-ch%C6%B0%C6%A1ng-3)
+13. [Chương 4 — Hoàng cung sụp đổ & Bí mật dưới cung điện ngầm](https://www.google.com/search?q=%2313-ch%C6%B0%C6%A1ng-4)
 
 ---
 
@@ -215,19 +219,25 @@ Chiến thắng vĩ đại mang đến những rạn nứt không thể hàn g�
 
 ### CHƯƠNG 4: HOÀNG CUNG SỤP ĐỔ & BÍ MẬT DƯỚI CUNG ĐIỆN NGẦM
 
+> *Đã mở rộng từ 10 → 15 phân cảnh, ~14.943 từ để khắc phục pacing quá nhanh. Xem Section 13 để biết chi tiết cấu trúc từng PC.*
+
 #### Cú lật kèo của Giles & Sự thật phơi bày
 
 Lâm vào đường cùng, Hoàng đế phe triều cũ quyết định đóng cửa toàn bộ biên giới, ban sắc lệnh quốc hữu hóa, tịch thu mọi tài sản của ngân hàng ngầm, dồn Louis và các tai mắt vào thế cô lập hoàn toàn trong kinh thành. Khi cấm vệ quân chuẩn bị bao vây bắt sống Louis, một cánh cửa ngách bí mật của hoàng cung đột ngột mở ra. Người xuất hiện chính là Giles — gã cai ngục năm xưa, nay đã leo lên ghế Bộ trưởng Hậu cần nhờ những khoản tiền hối lộ khổng lồ từ Louis. Giles cứu anh không phải vì trung thành, mà vì gã đủ khôn ngoan để hiểu rằng chỉ có bộ não của Louis mới giúp túi tiền và cái ghế của gã an toàn trong thời cuộc loạn lạc.
 
-Louis thoát thân, nhưng trong cơn hỗn loạn, anh vô tình chạy lạc vào phủ đệ của Helena đúng ngày lễ thành hôn sắp đặt của cô. Bức màn danh phận vỡ òa trong bàng hoàng và đau đớn. Helena nhận ra người đàn ông mình yêu bấy lâu chính là kẻ đang hủy diệt gia tộc cô, còn Louis nhận ra cô gái thư viện chính là hôn thê của kẻ thù. Nhưng Helena, với lý tưởng về tự do và chính nghĩa, biết rõ gã hôn phu của mình là một bạo chúa khát máu. Cô đưa ra lựa chọn nghiệt ngã: giấu Louis vào dưới lớp váy cưới vồng vĩ đại trong cỗ xe ngựa, đưa anh thoát khỏi vùng phong tỏa của cấm vệ quân và trao cho anh di tích tối cao mà gia tộc cô canh giữ: *Trái tim của Phượng hoàng*.
+Louis thoát thân, nhưng trong cơn hỗn loạn, anh chạy một mình trong đường ngầm dưới hoàng cung — một khoảnh khắc cô độc giữa bóng tối, nơi những ký ức về đội mạo hiểm giả chết trong hang Hydra ùa về. Hắn tự hỏi liệu mình có đang đi đúng đường, và liệu Helena có phải là cái bẫy. Nhưng hắn đi tiếp, vì đã hứa.
+
+Rồi anh vô tình chạy lạc vào phủ đệ của Helena đúng ngày lễ thành hôn sắp đặt của cô. Bức màn danh phận vỡ òa trong bàng hoàng và đau đớn. Helena nhận ra người đàn ông mình yêu bấy lâu chính là kẻ đang hủy diệt gia tộc cô, còn Louis nhận ra cô gái thư viện chính là hôn thê của kẻ thù. Nhưng Helena, với lý tưởng về tự do và chính nghĩa, biết rõ gã hôn phu của mình là một bạo chúa khát máu. Cô đưa ra lựa chọn nghiệt ngã: giấu Louis vào dưới lớp váy cưới vồng vĩ đại trong cỗ xe ngựa, đưa anh thoát khỏi vùng phong tỏa của cấm vệ quân và trao cho anh di tích tối cao mà gia tộc cô canh giữ: *Trái tim của Phượng hoàng*.
 
 Khi liên minh của Louis tiến công đánh sập đại môn hoàng cung, Đại Công tước dồn binh về điện thờ, đẩy Helena và hàng trăm quý tộc ra làm con tin, thách thức Louis kích hoạt di tích — vốn cần máu quý tộc có quyền lực thực sự hiến tế với số lượng lớn để khởi động. Đối mặt với lời đe dọa, Louis không hề do dự. Anh lạnh lùng ra lệnh cho quân đội của Leonor xả tiễn sát hại toàn bộ quý tộc phe đối lập đang đứng quanh đó, bất chấp tiếng khóc thét của Julian khi thấy cha mình lọt vào tầm bắn. Máu của tầng lớp quý tộc chảy tràn trên các rãnh đá ma pháp, kích hoạt ngọn lửa Phượng hoàng thiêu rụi hoàn toàn cấm vệ quân và hoàng cung. Đại Công tước tử trận, triều đại cũ chính thức sụp đổ trong bể máu.
 
+Nhưng sau trận chiến — giữa đống tro tàn của điện thờ — Louis quỳ xuống, kiệt sức. Helena, váy cưới cháy xém, đứng dậy bên cạnh hắn. Nàng hỏi: "Xong rồi sao?" Hắn gật đầu. Nàng đặt tay lên vai hắn — một khoảnh khắc lắng đọng hiếm hoi giữa những gì còn lại của ba trăm năm lịch sử.
+
 #### Bí mật dưới Cung điện Ngầm (Cú Twist bùng nổ)
 
-Sau chiến thắng, Erick chủ động quỳ gối nhường ngai vàng cho Louis vì quá sợ hãi trước sự tàn nhẫn vương quyền của anh. Louis bước lên ngôi vị tối cao, đội chiếc vương miện sắt biên thùy.
+Sau chiến thắng, Louis bước qua hoàng cung đổ nát — từng căn phòng, từng ký ức, một con búp bê cháy dở trong tay — trước khi tìm thấy cánh cửa sắt dẫn xuống mật thất. Erick chủ động quỳ gối nhường ngai vàng cho Louis vì quá sợ hãi trước sự tàn nhẫn vương quyền của anh. Louis bước lên ngôi vị tối cao, đội chiếc vương miện sắt biên thùy.
 
-Tuy nhiên, khi tiến vào mật thất tối cao nằm sâu dưới ngai vàng hoàng cung, Louis sững sờ trước những gì nhìn thấy. Nơi đây không có vàng bạc châu báu cổ đại. Giữa phòng là một **chiếc máy đánh chữ rỉ sét**, những tấm bản đồ vương quốc vẽ theo tỷ lệ xích hiện đại, và **bức chân dung của V vị Vua Sáng Lập từ 300 năm trước mặc một bộ comple hiện đại lỗi thời, gương mặt mệt mỏi hệt như Louis.**
+Khi tiến vào mật thất tối cao nằm sâu dưới ngai vàng hoàng cung, Louis sững sờ trước những gì nhìn thấy. Nơi đây không có vàng bạc châu báu cổ đại. Giữa phòng là một **chiếc máy đánh chữ rỉ sét**, những tấm bản đồ vương quốc vẽ theo tỷ lệ xích hiện đại, và **bức chân dung của Vua Sáng Lập từ 300 năm trước mặc một bộ comple hiện đại lỗi thời, gương mặt mệt mỏi hệt như Louis.**
 
 Louis tìm thấy cuốn nhật ký của Người Tiền Nhiệm — một thạc sĩ ngành quản trị công thế kỷ 21. Cuốn nhật ký phơi bày sự thực kinh hoàng:
 
@@ -239,13 +249,13 @@ Louis đứng chết lặng trong mật thất. Anh nhìn ra ngoài cửa sổ, 
 
 Louis đưa ra quyết định điên rồ và vĩ đại nhất đời mình: **Chấp nhận làm "Bạo chúa ngắn hạn" để tự tay đập nát hệ thống do mình vừa dựng lên.**
 
-Ngay sau khi đăng cơ, Louis đột ngột thay đổi thái độ. Anh ban hành các luật lệ khắc nghiệt cực đoan: ra lệnh quốc hữu hóa toàn bộ ngân hàng cổ phần của Erick, tước quyền chỉ huy quân đội của Leonor, cô lập Julian khỏi các vị trí quyền lực. Anh cố tình biến mình thành một kẻ độc tài khát máu, một con quỷ tàn nhẫn trong mắt tất cả mọi người để kích nổ một cuộc cách mạng toàn dân. Anh dùng quyền lực tuyệt đối để thực hiện một mục đích tối thượng: **Hủy diệt vĩnh viễn toàn bộ các Di tích thần thoại** và **xóa bỏ chế độ tập quyền phong kiến**, chia nhỏ đất nước thành các bang tự trị do người dân tự bầu cử, ép xã hội nhảy vọt lên mô hình cộng hòa đại nghị.
+Ngay sau khi đăng cơ, Louis đột ngột thay đổi thái độ. Anh ban hành các luật lệ khắc nghiệt cực đoan: ra lệnh quốc hữu hóa toàn bộ ngân hàng cổ phần của Erick, tước quyền chỉ huy quân đội của Leonor, cô lập Julian khỏi các vị trí quyền lực. Anh cố tình biến mình thành một kẻ độc tài khát máu, một con quỷ tàn nhẫn trong mắt tất cả mọi người để kích nổ một cuộc cách mạng toàn dân. Bên dưới, người dân thường — như người thợ rèn Kael — mất việc, chết đói, và bắt đầu hy vọng vào cuộc nổi loạn. Anh dùng quyền lực tuyệt đối để thực hiện một mục đích tối thượng: **Hủy diệt vĩnh viễn toàn bộ các Di tích thần thoại** và **xóa bỏ chế độ tập quyền phong kiến**, chia nhỏ đất nước thành các bang tự trị do người dân tự bầu cử, ép xã hội nhảy vọt lên mô hình cộng hòa đại nghị.
 
-Các đồng minh cũ thất vọng và phẫn nộ tột cùng. Julian, Erick, Leonor tin rằng Louis đã bị quyền lực tha hóa hoàn toàn. Họ quyết định liên minh lại để lật đổ "Bạo chúa" Louis.
+Các đồng minh cũ thất vọng và phẫn nộ tột cùng. Julian, Erick, Leonor tin rằng Louis đã bị quyền lực tha hóa hoàn toàn. Họ quyết định liên minh lại để lật đổ "Bạo chúa" Louis. Trước khi cuộc nổi loạn nổ ra, Julian lẻn vào phòng Louis giữa đêm. Hắn đọc cuốn nhật ký. Hắn hiểu tất cả. Và hắn hứa giữ bí mật — dù điều đó có nghĩa là hắn phải nhìn bạn mình chết.
 
-**Đêm cuối cùng:** Trước khi quân liên minh tấn công vào hoàng cung, Helena xuất hiện trong tẩm điện. Louis không giải thích với thế giới, nhưng anh đẩy cuốn nhật ký 300 năm trước về phía cô và mỉm cười bất lực: *"Tôi phải làm con quỷ này, Helena. Triều đại này phải kết thúc ngay từ đời của tôi, để vòng lặp vĩnh viễn dừng lại."* Helena nhìn cuốn nhật ký, nhìn đôi mắt đen mỏi mệt của anh và khóc — lần này cô khóc vì thấu cảm sâu sắc nỗi đau và sự hy sinh vĩ đại của anh. Cô ôm anh lần cuối rồi lặng lẽ rời kinh thành.
+**Đêm cuối cùng:** Trước khi quân liên minh tấn công vào hoàng cung, Helena xuất hiện trong tẩm điện. Louis không giải thích với thế giới, nhưng anh đẩy cuốn nhật ký 300 năm trước về phía cô và mỉm cười bất lực: *"Tôi phải làm con quỷ này, Helena. Triều đại này phải kết thúc ngay từ đời của tôi, để vòng lặp vĩnh viễn dừng lại."* Helena nhìn cuốn nhật ký, nhìn đôi mắt đen mỏi mệt của anh và khóc — lần này cô khóc vì thấu cảm sâu sắc nỗi đau và sự hy sinh vĩ đại của anh. Cô nhớ lại đêm đầu tiên họ gặp nhau trong thư viện, những cuộc tranh luận triết học, những nụ cười giấu tên. Cô ôm anh lần cuối rồi lặng lẽ rời kinh thành.
 
-**Vương miện sắt trong lửa:** Ngày hoàng cung bị tiến công, Louis ngồi tĩnh lặng một mình trên ngai vàng, tự châm lửa đốt cháy hoàng cung. Ngọn lửa thiêu rụi cuốn nhật ký, chiếc máy đánh chữ và tất cả thánh tích thần thoại cuối cùng của thế giới. Louis chết trong ngọn lửa, kết thúc vương triều ngắn ngủi của mình. Đất nước bước vào kỷ nguyên mới: không còn vua, không còn thần thoại, chỉ còn con người tự quyết định vận mệnh. Louis đã thắng trò chơi số phận bằng cách chấp nhận thua cuộc và tan biến vào lịch sử như một bạo chúa khét tiếng nhất, nhưng lại là vị cứu tinh vĩ đại nhất.
+**Vương miện sắt trong lửa:** Ngày hoàng cung bị tiến công, Louis ngồi tĩnh lặng một mình trên ngai vàng, tự châm lửa đốt cháy hoàng cung. Ngọn lửa thiêu rụi cuốn nhật ký, chiếc máy đánh chữ và tất cả thánh tích thần thoại cuối cùng của thế giới. Julian bước vào trong khói — mang theo chiếc hộp gỗ sồi, đưa nó cho Louis lần cuối. Louis chết trong ngọn lửa, kết thúc vương triều ngắn ngủi của mình. Đất nước bước vào kỷ nguyên mới: không còn vua, không còn thần thoại, chỉ còn con người tự quyết định vận mệnh. Louis đã thắng trò chơi số phận bằng cách chấp nhận thua cuộc và tan biến vào lịch sử như một bạo chúa khét tiếng nhất, nhưng lại là vị cứu tinh vĩ đại nhất.
 
 ---
 
@@ -256,10 +266,11 @@ Các đồng minh cũ thất vọng và phẫn nộ tột cùng. Julian, Erick, 
 | Di tích | Công dụng | Chi phí vận hành (Luật đổi chác) | Ghi chú |
 | --- | --- | --- | --- |
 | **Bản thảo Thần học** | Công thức chế tạo thuốc súng, xi măng thô sơ | Máu của đội mạo hiểm giả (sơ sẩy đầu đời của Louis) | Chứa ghi chú tiếng Anh tốc ký của người đi trước |
-| **Trái tim Golem** | Lõi nhiệt lượng vĩnh cửu | Vận hành lò rèn công nghiệp chế tạo vũ khí cho Leonor | Bị Louis biến từ "hộ giáp cá nhân" thành "nhà máy năng lượng" |
-| **Mắt Thần Argus** | Rada định vị toàn bản đồ, quét tình báo | Tiêu tốn lượng dầu vạc khổng lồ chiết xuất từ mỡ quái thú | Liên kết mạng lưới cái bang để tạo radar quân sự đầu tiên |
+| **Trái tim Golem** | Lõi nhiệt lượng vĩnh cửu — vận hành lò rèn công nghiệp | Vận hành lò rèn liên tục — cần bảo trì mỗi 50 năm | **Tìm thấy ở:** Lò rèn bỏ hoang dưới chân núi lửa tắt (Ch2 PC17). Louis thuần hóa Golem canh giữ thay vì tiêu diệt. |
+| **Mắt Thần Argus** | Rada định vị toàn bản đồ, quét tình báo | Tiêu tốn lượng dầu vạc khổng lồ chiết xuất từ mỡ quái thú | **Tìm thấy ở:** Đền Argus trong hẻm núi phía tây (Ch2 PC18). Louis dùng gương phản xạ ánh sáng để vô hiệu hóa sinh vật mắt. Cho thấy hình ảnh Vua Sáng Lập. |
 | **Sừng Leviathan** | Điều khiển dòng hải lưu, bóp nghẹt cảng biển | **Phản phệ:** Gây động đất hủy diệt hòn đảo người dùng nếu thiếu máu hoàng gia hiến tế | Louis dùng phản phệ để bẫy Đại Công tước tự sát |
 | **Trái tim Phượng hoàng** | Ngọn lửa thiêu rụi cấm vệ quân | Đòi hỏi máu quý tộc có quyền lực thực sự hiến tế với số lượng lớn | Louis xả súng sát hại toàn bộ quý tộc phe đối lập để kích hoạt di tích |
+| **Nanh Rồng Băng** | Vũ khí cận chiến — không bao giờ cùn, đâm thủng mọi chất liệu | Không cần vận hành — là vũ khí tự nhiên | **Tìm thấy ở:** Đèo Nanh Tuyết (Ch3 PC23). Louis thương lượng với rồng băng — không chiến đấu. Tặng Nanh Rồng cho Leonor. |
 
 ---
 
@@ -413,7 +424,7 @@ Các đồng minh cũ thất vọng và phẫn nộ tột cùng. Julian, Erick, 
 
 ---
 
-## 11. CẤU TRÚC TRIỂN KHAI CHƯƠNG 2 — THÁNH ĐỊA HỌC VIỆN (15 PHÂN CẢNH)
+## 11. CẤU TRÚC TRIỂN KHAI CHƯƠNG 2 — THÁNH ĐỊA HỌC VIỆN (18 PHÂN CẢNH)
 
 > *Mục này ghi lại cách kể chuyện thực tế đã triển khai trong bản prose Chương 2, lưu trong thư mục `final/chuong/chuong-2/`.*
 
@@ -446,9 +457,11 @@ Các đồng minh cũ thất vọng và phẫn nộ tột cùng. Julian, Erick, 
 | **Kết nạp Julian** | 6-7 | Kết nối → Phát hiện bí mật | Tĩnh lặng, sâu lắng |
 | **Tình yêu Helena** | 8-9 | Ấm áp → Gắn bó → Sự trớ trêu | Nhẹ nhàng, lãng mạn |
 | **Thu phục Erick** | 10-11 | Căng thẳng → Thử thách → Hợp tác | Tội phạm, kịch tính |
+| **Thám hiểm Golem (MỚI)** | 17 | Hồi hộp → Căng thẳng → Chiến thắng | **Phiêu lưu, ly kỳ** |
 | **Chinh phục Leonor** | 12-13 | Uy hiếp → Đấu trí → Tôn trọng | Hồi hộp, thử thách |
+| **Thám hiểm Argus (MỚI)** | 18 | Bí ẩn → Nguy hiểm → **Vỡ lẽ (thấy Vua Sáng Lập)** | **Kinh dị tâm lý, twist** |
 | **Cao trào** | 14 | Sốc → Phản bội → Quyết tâm | Bùng nổ, đau đớn |
-| **Kết chương** | 15 | Đoàn kết → Hy vọng → Mở ra | Tĩnh lặng, trang nghiêm |
+| **Kết chương** | 15-16 | Đoàn kết → Giles leo lên → Mở ra | Tĩnh lặng, trang nghiêm |
 
 ### 11.3 Nhân vật chính — Trạng thái cuối Chương 2
 
@@ -469,6 +482,9 @@ Các đồng minh cũ thất vọng và phẫn nộ tột cùng. Julian, Erick, 
 5. **PC12:** Leonor nói "ta biết ngươi đang đối đầu với Đại Công tước" — cho thấy mạng lưới thông tin đã dò ra Louis.
 6. **PC14:** Helena tiết lộ cuộc đảo chính — đặt nền cho toàn bộ xung đột Chương 3.
 7. **PC15:** Louis đặt chiếc lông chim xanh của Helena vào Oak Box — biểu tượng cho sự pha trộn giữa tính toán lạnh lùng và cảm xúc cá nhân.
+8. **PC16 (MỚI):** Giles bắt đầu leo lên từ mỏ đá — song song với Louis ở học viện. Cài cắm cho Ch4: hắn sẽ là người mở cửa ngách.
+9. **PC17 (MỚI):** Louis thuần hóa Golem — cho thấy hắn đã học được từ sai lầm Hydra. Golem có "nút tắt" trên trán — minh chứng cho tri thức của Vua Sáng Lập.
+10. **PC18 (MỚI):** Mắt Thần Argus cho Louis thấy hình ảnh Vua Sáng Lập — lần đầu hắn thấy mặt người tiền nhiệm. "Dòng máu của Raymond" — cài cắm về thân thế người ông.
 
 ### 11.5 Tổng dung lượng Chương 2
 
@@ -489,7 +505,10 @@ Các đồng minh cũ thất vọng và phẫn nộ tột cùng. Julian, Erick, 
 | 13 | ~6.152 | Phiên tòa |
 | 14 | ~8.054 | Khuôn mặt thật |
 | 15 | ~6.411 | Kết chương |
-| **Tổng** | **~109.000 ký tự / ~15.500 từ (ước)** | |
+| **16** | **~782 từ (MỚI)** | **Giles: Con chuột leo tàu — Giles dùng tiền Louis mua chức hậu cần** |
+| **17** | **~880 từ (MỚI)** | **Trái tim Golem — Louis và Julian khám phá lò rèn bỏ hoang, thuần hóa Golem, lấy lõi năng lượng** |
+| **18** | **~850 từ (MỚI)** | **Mắt Thần Argus — Louis và Julian vào đền Argus, dùng gương phản xạ ánh sáng, thấy hình ảnh Vua Sáng Lập** |
+| **Tổng** | **~109.000 ký tự / ~18.000 từ (ước)** | **18 phân cảnh** |
 
 ### 11.6 Kết nối cảm xúc Chương 1 → Chương 2
 
@@ -513,3 +532,192 @@ Các đồng minh cũ thất vọng và phẫn nộ tột cùng. Julian, Erick, 
 | Leonor's voice hơi phân tích | Thấp | Đã rút ngắn thoại: "Khi đổ máu — quân đội biên giới phải đứng đúng phe." Thêm cử chỉ xoay dao găm. |
 | Show Don't Tell PC9: "Louis không biết phải nói gì" | Thấp | Đã thay bằng hành động thể chất (tay khựng, siết rồi buông) + chi tiết email, deadline, tờ giấy nhắn |
 | Cliché "Im lặng nặng nề như tảng đá" (PC14) | Thấp | Thay bằng tiếng nến chảy — từng giọng sáp rơi xuống đĩa đồng như tiếng đếm ngược |
+
+---
+
+## 12. CHƯƠNG 3: THƯƠNG TRƯỜNG LÀ CHIẾN TRƯỜNG & RẠN NỨT LIÊN MINH
+
+### 12.1 Cấu trúc phân cảnh
+
+| PC | Tựa | Nội dung chính |
+| --- | --- | --- |
+| 1 | Sáu tháng sau | Mở đầu: 6 tháng sau Ch2. Liên minh đã lớn mạnh — Ngân hàng Phương Nam lợi nhuận 120.000 đồng/quý. Bốn người họp: Đại Công tước sắp phản công. Louis tiết lộ Sừng Leviathan và kế hoạch phản phệ. Hộp gỗ sồi mở ra với kỷ vật mới. |
+| 2 | Kẻ trộm trong màn đêm | Gián điệp của Đại Công tước đánh cắp Sừng Leviathan. Erick giận dữ khi biết đó là cái bẫy. Louis giải thích chi tiết: ba trăm người sẽ chết. Erick: "Ngươi nợ ta ba trăm linh hồn." |
+| 3 | Sóng thần thứ nhất | Thuyền trưởng Barret kể lại trận sóng thần — hai tàu chìm, 250 người chết. Louis đến thăm, nghe câu chuyện, thừa nhận trách nhiệm. Đây là lần đầu Louis nói ra: "Ta đã biết điều này sẽ xảy ra." |
+| 4 | Phản phệ | Louis gửi tin giả, dụ Đại Công tước kích hoạt Sừng lần hai. Động đất — 2.000 quân Đại Công tước chết. Julian công khai cắt đứt quan hệ với cha. Hội đồng: bước tiếp theo — tấn công vào tiền của hắn. |
+| 5 | Những đêm trong thư viện | Louis gặp Helena. Cô tiết lộ cha mình đang bán đất — cho Louis biết Đại Công tước đang cạn tiền. Louis chuẩn bị kế hoạch in tiền giả. Julian: "Nếu ngươi thành quỷ — ta sẽ kết liễu ngươi." |
+| 6 | Vết nứt | Erick vs Leonor: thương mại hay quân sự? Louis đứng giữa, chọn con đường thứ ba: chiến tranh tiền tệ. Leonor cảnh báo Louis về tương lai của Julian. |
+| 7 | Mồi nhử (mở rộng) | Đại Công tước vây hãm Cauldwin. Louis quyết định không cứu — dùng thành phố làm mồi nhử. Erick đấm Louis. **Mở rộng: Louis dùng quân cờ và xác suất để giải thích chiến lược — 20% nếu cứu, 65% nếu hy sinh. Blackmoor được nhắc đến. Leonor: "Đó là toán học." Louis: "Đó là chiến tranh."** |
+| 8 | Cánh cửa sắt | Cauldwin bị vây trong 3 tuần. Louis phong tỏa thông tin. Julian in mẻ tiền giả đầu tiên. Leonor đánh vào phía bắc — đốt kho lương của Đại Công tước. |
+| 9 | Vương quyền được xây bằng xác người | Cauldwin đầu hàng. Erick sụp đổ. Louis: "Vương quyền được xây bằng xác người." Mối quan hệ Erick-Louis thay đổi mãi mãi. |
+| 10 | Đồng tiền chết | Chiến dịch tiền giả lan rộng. Julian: lạm phát từ 5% lên đến siêu lạm phát trong 6 tháng. Tung tin đồn — gieo rắc nghi ngờ trong lòng thương nhân. |
+| 11 | Mùa đông bằng tiền giả (mở rộng) | Louis cải trang đi chợ — ba vignette: người phụ nữ không đủ tiền mua sữa (thêm chi tiết tiếng khóc yếu ớt), người đàn ông già đốt tiền (thêm mùi giấy cháy), **tiệm bánh đóng cửa — người đàn ông ôm bình gốm xanh không thể bán**. |
+| 12 | Mặt nạ quỷ | Erick suy sụp: "Khi ta nhìn vào gương — ta thấy một kẻ giết người giống như hắn." Louis thừa nhận: "Ta không biết mình có đúng không." |
+| 13 | Trái tim sụp đổ | Nền kinh tế Đại Công tước sụp đổ hoàn toàn. Julian báo cáo: 8.000 mẫu đất, 3 lâu đài, 23 giấy nợ. Helena viết thư cầu cứu — Louis không trả lời. |
+| 14 | Trước bình minh | Louis gặp Helena trong thư viện — cô gần như biết sự thật. "Em sẽ chọn sự thật." Chuẩn bị cho trận cuối. |
+| 15 | Trước cổng địa ngục (mở rộng) | Bình minh ngày tấn công. Leonor hùng biện. **Mở rộng kết: Louis bước qua xác chết — một đứa trẻ nằm bên đường, tay nắm bánh mì. Hắn không dừng lại. "Mày không có quyền sụp đổ."** |
+| — | — | — |
+| **16** | **Bên trong Cauldwin** | **Góc nhìn thường dân Marta — goá chồng, hai con. Chị bán nhẫn cưới lấy ổ bánh mì đen. Thấy người treo cổ. Đứa con gái Lina không đứng dậy được. Chị đào đường cống tẩu thoát — bị tên lính bắn chết ngay khi ra đến cửa. Jakob đứng nhìn mẹ chết, tay nắm tay em. Không ai biết tên họ.** |
+| **17** | **Tuyệt vọng của Đại Công tước** | **POV Đại Công tước Aldric: không đủ tiền mua củi. Nhìn lại ba tháng sụp đổ. William vào báo cáo. Đại Công tước thú nhận: "Ta không thể chỉ đường cho con nữa." William hỏi về sự tha thứ — không có câu trả lời.** |
+| **18** | **Lựa chọn của William** | **William đi tuần trên tường thành. Julian tiếp cận, tiết lộ sự thật về cha — vụ ám sát mẹ Julian, thảm sát Forthwaite. Đề nghị William mở cổng. William từ chối — chọn chiến đấu đến cùng vì không thể phản bội, dù biết cha sai.** |
+| **19** | **Đêm trước địa ngục** | **Đêm trước trận. Louis không ngủ — ác mộng Hydra chồng lấp những bàn tay kéo hắn xuống. Tỉnh dậy thấy mình đang khóc. Mở hộp gỗ sồi, giữ chiếc lông chim xanh. "Anh xin lỗi." Chờ bình minh.** |
+| **20** | **Giles: Người giữ ghế (MỚI)** | **Giles bị Đại Công tước thẩm vấn về Louis. Chọn nói dối một nửa sự thật. Tìm thấy cánh cửa ngách trong kho hậu cần — lá bài tẩy cho tương lai.** |
+| **21** | **Jack: Mắt ở khắp nơi (MỚI)** | **Hội Cành Ô Liu đã thành mạng lưới tình báo. Jack gửi tin chiến lược cho Louis. Louis mở hộp sồi, nhìn mặt dây ô liu của Raymond — kết nối lại với Ch1.** |
+| **22** | **Mattheo: Người sống sót (MỚI)** | **Trận Cauldwin — Mattheo từ thương nhân thành lính. Giết người lần đầu. Leonor bảo vệ hắn. Louis thì thầm: "Hãy bảo vệ Leonor."** |
+| **23** | **Nanh Rồng Băng (MỚI)** | **Đèo Nanh Tuyết — rồng băng chặn đường. Louis một mình đi vào đèo, không vũ khí, thương lượng với rồng. Hứa cho nó một khu rừng mới. Rồng bay đi. Louis tìm thấy Nanh Rồng, tặng Leonor.** |
+
+### 12.2 Mạch cảm xúc Chương 3
+
+Chương 3 là chương **đen tối nhất** — nơi Louis chính thức vượt qua đường ranh đạo đức. Không giống Chương 1 (nạn nhân) hay Chương 2 (chiến lược), Chương 3 cho thấy Louis trở thành thủ phạm:
+
+- **PC1-PC4**: Chiến thắng quân sự — nhưng bằng mưu mẹo và hy sinh đồng minh. Cái bẫy Sừng Leviathan.
+- **PC5**: Tia sáng cuối — Helena. Nhưng ngay cả tia sáng này cũng bị Louis dùng làm công cụ thu thập thông tin.
+- **PC6-PC9 + PC16**: Tàn khốc Cauldwin — quyết định hy sinh 7.000 người. PC16 cho thấy mặt người thật đằng sau con số.
+- **PC23 (MỚI)**: Hành quân vượt đèo Nanh Tuyết — Louis thương lượng với rồng băng. Không đổ máu. Cho thấy phương pháp của Louis: hiểu đối thủ, thay đổi động cơ của họ. Tặng Nanh Rồng cho Leonor.
+- **PC10-PC13 + PC20-PC22**: Chiến tranh tiền tệ — siêu lạm phát. **PC20 (Giles) cho thấy mặt trận bên kia. PC21 (Jack) kết nối lại mạng lưới. PC22 (Mattheo) cho thấy tác động của Louis lên một con người.**
+
+
+### 12.3 Kết nối Chương 2 → Chương 3
+
+- Cách nhau 6 tháng — Ngân hàng Phương Nam đã lớn mạnh từ 3 người thành một tổ chức
+- Julian đã biết sự thật về mẹ mình — tạo động lực cho việc cắt đứt quan hệ với cha
+- Mối quan hệ Louis-Helena phát triển — nhưng bắt đầu rạn nứt vì những bí mật
+- Erick từ một thương nhân liều lĩnh trở thành người bị ám ảnh bởi những cái chết do mình gây ra
+
+### 12.4 Dung lượng
+
+| PC | Từ | Ghi chú |
+| --- | --- | --- |
+| 1 | 1.771 | Mở đầu — PTSD crack mới (300 người chết, hắn nuốt một hơi cay đắng) |
+| 2 | 1.426 | Kẻ trộm & cái bẫy |
+| 3 | 1.411 | Hậu quả sóng thần — internal monologue chuyển từ "biết trước" sang cảm giác thể xác |
+| 4 | 1.216 | Phản phệ & Julian cắt đứt quan hệ |
+| 5 | 1.463 | Helena & kế hoạch in tiền |
+| 6 | 1.146 | Ran nứt liên minh |
+| 7 | **1.379** (+190) | Quyết định hy sinh Cauldwin — thêm phân tích xác suất, bản đồ quân cờ, Blackmoor |
+| 8 | 1.089 | Ba tuần vây hãm |
+| 9 | 841 | Cauldwin thất thủ — Erick sụp đổ |
+| 10 | 1.095 | Chiến tranh tiền tệ bắt đầu |
+| 11 | **1.243** (+227) | Cảnh chợ — thêm vignette tiệm bánh đóng cửa, bình gốm xanh, chi tiết cảm giác |
+| 12 | 899 | Erick & Louis — không trùng lặp (kiểm tra) |
+| 13 | 856 | Nền kinh tế sụp đổ |
+| 14 | 1.058 | Lời tạm biệt thư viện |
+| 15 | **1.246** (+202) | Kết nặng hơn — đứa trẻ chết bên đường, "mày không được phép ngã" |
+| 16 | **1.056 (mới)** | Bên trong Cauldwin — Marta, Jakob, Lina |
+| 17 | **987 (mới)** | Tuyệt vọng của Đại Công tước |
+| 18 | **1.000 (mới)** | Lựa chọn của William |
+| 19 | **801 (mới)** | Đêm trước — ác mộng Hydra, nước mắt |
+| 20 | **863 (MỚI)** | Giles: Người giữ ghế — bị thẩm vấn, tìm thấy cửa ngách |
+| 21 | **717 (MỚI)** | Jack: Mắt ở khắp nơi — Hội Cành Ô Liu báo tin |
+| 22 | **793 (MỚI)** | Mattheo: Người sống sót — từ thương nhân thành chiến binh |
+| 23 | **~850 (MỚI)** | Nanh Rồng Băng — thương lượng với rồng, vượt đèo |
+| **Tổng** | **~25.206 từ** | **23 phân cảnh** |
+
+### 12.5 Các vấn đề đã xử lý
+
+| Vấn đề | Trạng thái | Fix |
+| --- | --- | --- |
+| PC1 — Louis quá điềm tĩnh | ✅ | Thêm crack: "Khoảng ba trăm" → hắn thấy họ, nuốt một hơi cay đắng |
+| PC3 — "ta đã biết" trùng lặp | ✅ | Internal monologue chuyển thành cảm giác thể xác (tiếng gỗ vỡ = xương người, bàn tay chới với) |
+| PC5 — Quá lãng mạn? | Giữ nguyên | Tia sáng duy nhất trong chương dark — cần thiết để tương phản |
+| PC7 — Thiếu lý do chiến lược | ✅ | Thêm phân tích quân cờ + xác suất (20% vs 65%) + mục tiêu Blackmoor |
+| PC9 — "Vương quyền được xây bằng xác người" | ✅ Kiểm tra | Chỉ xuất hiện 1 lần — không bị lạm dụng |
+| PC11 — Đốt tiền cần chi tiết | ✅ | Thêm mùi giấy cháy, tiệm bánh đóng cửa, bình gốm xanh không ai nhặt |
+| PC12 — Mặt nạ quỷ trùng Ch2? | ✅ Kiểm tra | "Làm vua là phải mang mặt nạ quỷ" chỉ xuất hiện 1 lần trong internal monologue PC12 — không trùng |
+| PC15 — Kết nhẹ | ✅ | Thêm đứa trẻ chết bên đường, "mày không được phép ngã", thay đổi giọng kết |
+
+---
+
+## 13. CHƯƠNG 4: HOÀNG CUNG SỤP ĐỔ & BÍ MẬT DƯỚI CUNG ĐIỆN NGẦM
+
+> *Cập nhật lần cuối: Đã mở rộng từ 10 → 15 phân cảnh để khắc phục pacing quá nhanh.*
+
+### 13.1 Vấn đề pacing & Cách khắc phục
+
+| Vấn đề | Biểu hiện | Biện pháp |
+| --- | --- | --- |
+| **PC4 quá dày** | Vừa chiến đấu vừa kích hoạt di tích vừa kết thúc — không có thời gian để hậu quả lắng xuống | Tách làm 2: PC4 (trận chiến kết thúc) + PC12 (im lặng sau lửa — Louis quỳ giữa tro tàn, Helena đứng dậy bên cạnh) |
+| **Giữa PC2-PC3 không có hơi thở** | Louis chạy thoát → vào thẳng đám cưới Helena — không có thời gian xử lý cảm xúc | Thêm PC11 (Đường ngầm) — Louis một mình trong bóng tối, PTSD, đối thoại nội tâm trước khi gặp Helena |
+| **PC5-PC6 không có quá độ** | Từ mật thất → ngay lập tức hành động | Thêm PC13 (Hoàng cung tro tàn) — Louis đi qua hoàng cung đổ nát, từng căn phòng, từng ký ức, trước khi bước vào mật thất |
+| **PC7 — góc nhìn một chiều** | Chỉ có sắc lệnh trần trụi, thiếu tác động lên dân | Thêm PC14 (Mắt dân) — góc nhìn thường dân Kael, cho thấy hậu quả thực tế của "bạo chúa" |
+| **PC8-PC9 không có cầu nối** | Từ nổi loạn → thẳng vào đêm cuối với Helena | Thêm PC15 (Julian biết sự thật) — Julian lẻn vào phòng Louis, đọc nhật ký, hứa giữ bí mật |
+| **PC9 quá ngắn cho cảm xúc chính** | Đêm cuối Helena — chỉ 784 từ | Mở rộng lên ~1.680 từ: thêm hồi tưởng đêm đầu thư viện, thêm đoạn Helena đọc nhật ký, thêm chi tiết ôm nhau trong im lặng |
+
+### 13.2 Cấu trúc 15 phân cảnh
+
+| PC | Tựa | Dung lượng | Nội dung chính | Vai trò trong mạch |
+| --- | --- | --- | --- | --- |
+| **1** | Đóng cửa biên giới | 866 từ | Hoàng đế ra sắc lệnh — quốc hữu hóa ngân hàng, đóng biên giới. Đại Công tước dồn quân bao vây. Bốn người họp trong nhà kho. Louis: "Ta sẽ đi một mình." | Mở đầu — dồn ép |
+| **2** | Cánh cửa ngách | 1.174 từ | Bị truy đuổi, Giles mở cửa ngách — cứu vì túi tiền. Chạy lạc vào phủ Helena đúng lễ cưới. | Thoát thân — ngã rẽ |
+| **3** | Váy cưới | 1.375 từ | Helena giấu Louis dưới váy cưới. Đi qua William. Trao Trái tim Phượng hoàng. | Cao trào cảm xúc — lựa chọn |
+| **4** | Trái tim Phượng hoàng | 1.267 từ | Tiến công hoàng cung. Xả tiễn quý tộc. Phượng hoàng thiêu rụi tất cả. | Hành động — đỉnh điểm |
+| **5** | Chiếc hộp gỗ sồi mở ra | 907 từ | Louis lên ngôi. Đi vào mật thất. Cuốn nhật ký. Vòng lặp. | Twist — vỡ lẽ |
+| **6** | Kế hoạch phá hủy | 1.362 từ | Louis vạch kế: quốc hữu hóa, tước binh quyền, cô lập Julian. Bắt đầu đóng kịch. | Hành động — quyết tâm |
+| **7** | Bạo chúa | 873 từ | Các sắc lệnh được ban bố. Phản ứng từ phe đối lập. Dân chúng bắt đầu ghét. | Kịch tính — cô lập |
+| **8** | Hội nghị nổi loạn | 833 từ | Julian, Erick, Leonor nhóm họp. Quyết định nổi loạn. Julian viết tên Louis vào danh sách. | Đối đầu — tập hợp |
+| **9** | Đêm cuối cùng | **1.680 từ** | Helena vào tẩm điện. Đọc nhật ký. Hiểu tất cả. Hồi tưởng đêm đầu thư viện. Ôm nhau lần cuối. Ra đi. | **Cao trào cảm xúc toàn truyện** |
+| **10** | Vương miện sắt trong lửa | 1.119 từ | Louis trên ngai vàng. Tự châm lửa. Julian bước vào trong khói — đưa hộp gỗ sồi. Cái kết. | Kết thúc — bi tráng |
+| **11** | **Đường ngầm (MỚI)** | **709 từ** | *Giữa PC2-PC3*: Louis chạy một mình trong đường ngầm — bóng tối tuyệt đối, PTSD về đội mạo hiểm giả, đối thoại nội tâm trước giờ G. | **Tạm dừng — xử lý cảm xúc** |
+| **12** | **Im lặng sau lửa (MỚI)** | **697 từ** | *Sau PC4*: Louis quỳ giữa tro tàn. Helena đứng dậy — váy cưới cháy xém. Hai người nhìn nhau giữa xác chết. "Em có muốn đi cùng anh không?" | **Hậu quả — không gian lắng đọng** |
+| **13** | **Hoàng cung tro tàn (MỚI)** | **661 từ** | *Giữa PC5-PC6*: Louis đi qua hoàng cung đổ nát — từng căn phòng, từng ký ức, con búp bê cháy dở — trước khi bước vào mật thất. | **Quá độ — chiêm nghiệm** |
+| **14** | **Mắt dân (MỚI)** | **604 từ** | *Song song PC7*: Góc nhìn thường dân Kael — mất việc, đói, nghe tin đồn về nổi loạn, lần đầu có hy vọng. | **Góc nhìn bên ngoài — nhân tính hóa hậu quả** |
+| **15** | **Julian biết sự thật (MỚI)** | **816 từ** | *Giữa PC8-PC9*: Julian lẻn vào phòng Louis giữa đêm. Đọc nhật ký. Hứa giữ im lặng. "Ta tự hào vì đã là bạn của ngươi." | **Cầu nối cảm xúc — tạo đòn bẩy cho PC9** |
+| **16** | **Hoàng đế: Ngày cuối cùng (MỚI)** | **949 từ** | *Song song PC1-PC4*: POV Hoàng đế Edric III. Ông biết về mật thất nhưng không đủ can đảm. Chọn chết im lặng trong căn phòng riêng. "Có lẽ — cái chết này là điều tốt nhất ta có thể làm." | **Góc nhìn từ ngai vàng cũ — kết thúc một triều đại** |
+
+### 13.3 Dung lượng tổng thể
+
+| PC | Từ | Ghi chú |
+| --- | --- | --- |
+| 1 | 866 | Đóng cửa biên giới |
+| 2 | 1.174 | Cánh cửa ngách |
+| 3 | 1.375 | Váy cưới |
+| 4 | 1.267 | Trái tim Phượng hoàng |
+| 5 | 907 | Chiếc hộp mở ra |
+| 6 | 1.362 | Kế hoạch phá hủy |
+| 7 | 873 | Bạo chúa |
+| 8 | 833 | Hội nghị nổi loạn |
+| 9 | 1.680 | Đêm cuối cùng — mở rộng |
+| 10 | 1.119 | Vương miện sắt trong lửa |
+| 11 | 709 | Đường ngầm (MỚI) |
+| 12 | 697 | Im lặng sau lửa (MỚI) |
+| 13 | 661 | Hoàng cung tro tàn (MỚI) |
+| 14 | 604 | Mắt dân (MỚI) |
+| 15 | 816 | Julian biết sự thật (MỚI) |
+| 16 | 949 | Hoàng đế: Ngày cuối cùng (MỚI) |
+| **Tổng** | **~15.892 từ** | **16 phân cảnh** |
+
+### 13.4 Mạch cảm xúc Chương 4
+
+| Giai đoạn | PC | Mạch cảm xúc | Nhịp |
+| --- | --- | --- | --- |
+| **Hoàng đế: Kết thúc (MỚI)** | 16 | *Song song PC1-PC4*: Chấp nhận → Buông bỏ → Chết im lặng | **Chậm, trang nghiêm, xuyên suốt** |
+| **Bị dồn & Thoát thân** | 1-2 | Nghẹt thở → Hoảng loạn → Bất ngờ | Dồn dập |
+| **Tạm dừng — Nội tâm (MỚI)** | 11 | Cô đơn → PTSD → Quyết tâm | **Chậm, tĩnh lặng** |
+| **Váy cưới — Đỉnh điểm tình yêu** | 3 | Kịch tính → Đau đớn → Hy sinh | Leo thang |
+| **Trận chiến & Hậu quả (MỚI)** | 4 → 12 | Hành động → **Lắng đọng, tro tàn** | Nhanh → **chậm** |
+| **Twist vòng lặp & Quá độ (MỚI)** | 5 → 13 | Sốc → **Chiêm nghiệm, hoàng cung đổ nát** | Sốc → **chậm** |
+| **Bạo chúa & Góc nhìn dân (MỚI)** | 6-7 → 14 | Đóng kịch → **Hậu quả thực tế trên dân** | Căng thẳng → **nhân văn** |
+| **Nổi loạn & Bí mật (MỚI)** | 8 → 15 | Đối đầu → **Julian biết sự thật — cầu nối cảm xúc** | Dồn dập → **lặng** |
+| **Đêm cuối — Cao trào cảm xúc** | 9 | Thấu hiểu → Đau đớn → Chấp nhận | **Chậm, sâu** |
+| **Cái kết** | 10 | Bi tráng → Thanh thản → Hy sinh | Trang nghiêm |
+
+### 13.5 Các vấn đề đã xử lý
+
+| Vấn đề | Trạng thái | Fix |
+| --- | --- | --- |
+| Pacing quá nhanh — 10 PC cho cả hồi kết | ✅ | Thêm 5 PC mới (PC11-PC15), mở rộng PC9 |
+| PC4 — Battle + hậu quả trong 1 PC | ✅ | Tách: PC4 (action) + PC12 (aftermath — lắng đọng, Helena đứng dậy) |
+| Không có thời gian Louis xử lý cảm xúc (PC2→PC3) | ✅ | Thêm PC11 (Đường ngầm) — PTSD, cô đơn, nội tâm |
+| Louis lên ngôi quá nhanh (PC5→PC6) | ✅ | Thêm PC13 (Hoàng cung tro tàn) — chiêm nghiệm trước khi vào mật thất |
+| PC7 thiếu tác động thực tế lên dân | ✅ | Thêm PC14 (Mắt dân) — góc nhìn thường dân, hy vọng nổi loạn |
+| Julian không có khoảnh khắc riêng với Louis trước khi nổi loạn | ✅ | Thêm PC15 (Julian biết sự thật) — gánh nặng giữ bí mật, "dù chuyện gì xảy ra" |
+| PC9 quá ngắn — 784 từ cho cảm xúc chính | ✅ | Mở rộng lên ~1.680 từ — thêm hồi tưởng, Helena đọc nhật ký, ôm nhau trong im lặng |
+
+### 13.6 Bổ sung luồng nhân vật phụ (Đợt 2)
+
+| Vấn đề | Giải pháp | PC |
+| --- | --- | --- |
+| **Giles: từ cai ngục → Bộ trưởng — không thấy hành trình** | Thêm 2 cảnh: Ch2 PC16 (leo từ mỏ đá lên hậu cần), Ch3 PC20 (bị thẩm vấn, tìm cửa ngách) | Ch2-16, Ch3-20 |
+| **Jack / Hội Cành Ô Liu: biến mất sau Ch2** | Thêm Ch3 PC21 — Jack gửi tin tình báo. Kết nối lại mạng lưới với Louis. | Ch3-21 |
+| **Mattheo: từ tù nhân → lính — không thấy chuyển biến** | Thêm Ch3 PC22 — Mattheo học chiến đấu, Leonor bảo vệ hắn, Louis giao nhiệm vụ bảo vệ Leonor. | Ch3-22 |
+| **Hoàng đế: chỉ là cái bóng — không có số phận** | Thêm Ch4 PC16 — POV Edric III, biết về mật thất, chết im lặng trong phòng riêng. | Ch4-16 |
