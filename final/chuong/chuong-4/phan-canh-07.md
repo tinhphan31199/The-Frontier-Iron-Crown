@@ -96,7 +96,7 @@ Và Louis — ngồi trong phòng riêng, đọc những báo cáo về tin đ�
 
 Đêm đó, Louis mở hộp gỗ sồi.
 
-Bên trong bây giờ có thêm: cuốn nhật ký của Nguyễn Văn Minh — Vua Sáng Lập. Bên cạnh Bản thảo Thần học. Bên cạnh chiếc lông chim xanh của Helena. Bên cạnh những mảnh giấy ghi tên các thành phố đã hy sinh.
+Bên trong bây giờ có thêm: cuốn nhật ký của Nguyễn Văn Minh — Vua Sáng Lập. Bên cạnh Bản thảo Thần học. Bên cạnh chiếc lông chim xanh của Helena. Bên cạnh những mảnh giấy ghi tên các thành phố đã hy sinh. Mảnh giấy da bí ẩn từ đêm đầu tiên vẫn nằm đó — những ký tự lạ chưa một lần giải được. Dưới đáy hộp, lõi Golem đã nguội và Mắt Argus đã mù sau Cauldwin — hai di tích câm, chờ ngày đốt cùng.
 
 Hắn lấy cuốn nhật ký ra, đọc lại đoạn cuối:
 

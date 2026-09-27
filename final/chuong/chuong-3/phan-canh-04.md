@@ -68,7 +68,7 @@ Chiều hôm đó, Julian đứng trước một cuộc họp của các quý t�
 
 Hắn mặc một bộ áo choàng đen — không phải màu tang, nhưng gần như thế — và đọc một tuyên bố đã được viết sẵn, nét chữ của Louis nhưng giọng của chính hắn:
 
-*"Ta — Julian Aurelius Marcellus — con trai của Đại Công tước Aldric Marcellus — chính thức tuyên bố từ bỏ mọi quyền thừa kế, mọi danh hiệu, mọi đặc quyền mà dòng máu đã ban cho ta.*
+*"Ta — Julian Aurelius Marcellus — con trai của Đại Công tước Augustus Marcellus — chính thức tuyên bố từ bỏ mọi quyền thừa kế, mọi danh hiệu, mọi đặc quyền mà dòng máu đã ban cho ta.*
 
 *Cha ta đã dùng một di tích cổ — Sừng Leviathan — để tàn sát thường dân vô tội. Hắn đã kích hoạt nó hai lần. Lần thứ hai — chính lòng tham và sự tàn bạo của hắn đã gây ra thảm họa giết chết hai nghìn người của chính hắn.*
 

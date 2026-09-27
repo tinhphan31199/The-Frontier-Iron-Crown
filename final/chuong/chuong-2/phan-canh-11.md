@@ -98,7 +98,7 @@ Erick gật đầu, rồi đứng dậy. Ở cửa, hắn dừng lại, quay đ�
 
 "Và ngươi vẫn muốn làm?"
 
-Louis nhìn Erick — và trong ánh mắt hắn lúc đó không có gì ngoài sự lạnh lùng của một kẻ đã từng chết một lần, và không sợ cái chết thứ hai:
+Louis nhìn Erick — mắt không chớp, hơi thở đều đến mức đáng sợ, như một kẻ đã từng chết một lần và không sợ cái chết thứ hai:
 
 "Ta có một câu hỏi cho ngươi, Erick: Ở thế giới này — kẻ thất bại có bị chết không?"
 

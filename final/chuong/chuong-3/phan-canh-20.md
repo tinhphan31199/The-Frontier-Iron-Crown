@@ -1,7 +1,5 @@
 # CHƯƠNG 3 — PHÂN CẢNH 20: GILES — NGƯỜI GIỮ GHẾ
 
-*Song song với Chương 3 — Giles đã leo lên Bộ trưởng Hậu cần. Giữa cuộc chiến, hắn phải chọn phe.*
-
 ## I.
 
 Một năm rưỡi sau khi Louis rời mỏ đá, Giles bước vào dinh thự của Đại Công tước lần đầu tiên.

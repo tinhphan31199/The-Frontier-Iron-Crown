@@ -1,7 +1,5 @@
 # CHƯƠNG 4 — PHÂN CẢNH 11: ĐƯỜNG NGẦM
 
-*Giữa PC2 và PC3 — Louis chạy một mình trong đường ngầm dưới hoàng cung.*
-
 ## I.
 
 Bóng tối.
@@ -63,6 +61,10 @@ Hắn nghĩ về cuốn nhật ký của Nguyễn Văn Minh.
 Hắn chưa đọc nó — chưa tìm thấy nó — nhưng hắn đã biết về nó từ dòng chữ trong Bản thảo Thần học: *"Đừng lặp lại sai lầm của tôi."*
 
 *Ai đó đã đến trước mày. Ai đó đã đi con đường này — và đã thất bại.*
+
+*Và khuôn mặt trong tấm kính đêm đó — đêm mày chết ở thế giới cũ. Già nua. Mắt sáng. Nụ cười vừa quen vừa lạ.*
+
+*Giờ mày mới hiểu vì sao nó quen. Đó là Raymond — người ông trong ký ức của thân xác này. Mày đã mang khuôn mặt ông theo từ đêm đầu tiên, mà không hề biết.*
 
 *Mày có đi đến cùng không?*
 

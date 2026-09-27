@@ -86,7 +86,7 @@ Và Helena — từ bóng tối — bước ra ánh sáng của ngọn lửa, n�
 
 Bảy ngày sau, khi tro tàn nguội lạnh, họ tìm thấy chiếc hộp gỗ sồi.
 
-Nó nằm giữa đống tro tàn của ngai vàng — cháy đen bên ngoài, nhưng bên trong vẫn còn nguyên. Bản thảo Thần học. Cuốn nhật ký của Nguyễn Văn Minh. Chiếc lông chim xanh của Helena. Những mảnh giấy ghi tên các thành phố đã hy sinh.
+Nó nằm giữa đống tro tàn của ngai vàng — cháy đen bên ngoài, nhưng bên trong vẫn còn nguyên. Bản thảo Thần học. Cuốn nhật ký của Nguyễn Văn Minh. Chiếc lông chim xanh của Helena. Những mảnh giấy ghi tên các thành phố đã hy sinh. Và mảnh giấy da với những ký tự không bao giờ giải được — câu hỏi đầu tiên, cuối cùng cũng theo hắn vào lửa.
 
 Và một mảnh giấy mới — viết bằng nét chữ run run, có lẽ là trong những giây phút cuối cùng:
 

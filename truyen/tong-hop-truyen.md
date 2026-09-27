@@ -1,4 +1,6 @@
-# TỔNG HỢP DỰ ÁN TRUYỆN (BẢN CẬP NHẬT MỚI NHẤT)
+# TỔNG HỢP DỰ ÁN TRUYỆN (BẢN CANON DUY NHẤT — KẾT B)
+
+> **CANON:** Đây là bản duy nhất có hiệu lực. Kết B "Vòng lặp tiền định / Tự thiêu kết thúc vòng lặp" là kết chính thức. Bản A cũ (kết vua cô độc trên ban công, file `final.md`) đã bỏ ngày 2026-09-27.
 
 > **Tựa đề:** Vương Miện Sắt Biên Thùy- The Frontier Iron Crown
 > **Thể loại:** Isekai (xuyên không), Chính trị - Kinh tế - Đấu trí, Kỳ ảo Trung Cổ, Anti-hero, Dark Fantasy, Vòng lặp bi kịch tiền định (Fated Tragic Loop)

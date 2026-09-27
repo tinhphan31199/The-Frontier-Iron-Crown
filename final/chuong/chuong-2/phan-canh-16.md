@@ -1,7 +1,5 @@
 # CHƯƠNG 2 — PHÂN CẢNH 16: GILES — CON CHUỘT LEO TÀU
 
-*Song song với Chương 2 — Giles leo lên từ mỏ đá, dùng tiền của Louis mua từng nấc thang.*
-
 ## I.
 
 Sau khi Louis rời mỏ đá, Giles ngồi một mình trong căn phòng gỗ tồi tàn — trước mặt là ba mươi đồng bạc, cộng với một mảnh giấy ghi những dòng chữ kỳ lạ mà hắn không hiểu hết, nhưng hắn hiểu đủ.

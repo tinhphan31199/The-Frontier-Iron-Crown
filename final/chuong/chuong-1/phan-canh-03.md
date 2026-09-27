@@ -108,7 +108,7 @@ Sáng hôm sau, Louis bước ra khỏi mỏ đá biên thùy lần cuối cùng
 
 *Quỵt tiền ngay từ giao dịch đầu tiên. Giles, mày đúng là một thằng tham lam ngu xuẩn. Mày vừa cho tao thấy bộ mặt thật của thế giới này — và tao ghi nhớ điều đó.*
 
-Louis cất mười đồng bạc vào túi, mỉm cười lạnh lùng dưới ánh nắng ban mai. Anh bắt đầu bước đi về phía thị trấn biên thùy Osteria — nơi có một hội cái bang đang chờ anh thâu tóm.
+Louis cất mười đồng bạc vào túi, khóe miệng nhếch lên một nụ cười không chạm tới mắt. Anh bắt đầu bước đi về phía thị trấn biên thùy Osteria — nơi có một hội cái bang đang chờ anh thâu tóm.
 
 *Bước một hoàn thành. Bàn cờ bắt đầu mở ra rồi.*
 

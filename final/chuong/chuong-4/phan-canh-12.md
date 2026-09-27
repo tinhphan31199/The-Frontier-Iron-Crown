@@ -1,7 +1,5 @@
 # CHƯƠNG 4 — PHÂN CẢNH 12: IM LẶNG SAU LỬA
 
-*Sau PC4 — khoảnh khắc sau khi Trái tim Phượng hoàng thiêu rụi hoàng cung và Đại Công tước.*
-
 ## I.
 
 Im lặng.

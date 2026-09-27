@@ -1,7 +1,5 @@
 # CHƯƠNG 2 — PHÂN CẢNH 18: MẮT THẦN ARGUS
 
-*Sau PC13 — Julian phát hiện một ngôi đền cổ. Louis và Julian thám hiểm cùng nhau.*
-
 ## I.
 
 "Ngươi có nhớ cái sắc lệnh ba trăm năm ta đã cho ngươi xem không?"

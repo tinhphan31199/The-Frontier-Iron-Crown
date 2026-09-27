@@ -1,7 +1,5 @@
 # CHƯƠNG 3 — PHÂN CẢNH 16: BÊN TRONG CỔNG
 
-*Đặt giữa PC8 và PC9 — góc nhìn từ bên trong Cauldwin trong tuần thứ ba của cuộc vây hãm.*
-
 ## I.
 
 Tên của chị là Marta. Ba mươi hai tuổi. Góa chồng. Hai đứa con.

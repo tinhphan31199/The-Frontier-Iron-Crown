@@ -1,7 +1,5 @@
 # CHƯƠNG 4 — PHÂN CẢNH 14: MẮT DÂN
 
-*Song song với PC7 — góc nhìn của người dân về triều đại Louis.*
-
 ## I.
 
 Tên hắn là Kael. Hai mươi tư tuổi. Thợ rèn. Sống ở phố dưới chân hoàng cung.

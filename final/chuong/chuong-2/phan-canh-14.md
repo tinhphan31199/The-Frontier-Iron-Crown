@@ -64,7 +64,7 @@ Louis đông cứng.
 
 Im lặng đến mức Louis có thể nghe thấy tiếng máu chảy trong tai.
 
-*De la Croix. Gia tộc của hắn — à không, của xác chết mà hắn đang mượn. Thân xác Louis de la Croix này thuộc về một gia tộc biên giới.*
+*De la Croix. Cái tên mượn trên giấy tờ giả Hội làm cho hắn — lấy từ gia tộc biên giới đã tuyệt tự. Hắn không biết gì về họ, ngoài những mảnh vỡ ký ức của những ngày lang thang: một người ông với khuôn mặt nhân hậu, mái nhà tranh bên sườn đồi, cái chết trong mỏ đá vôi.*
 
 "Ta không biết," Louis nói, giọng khô khốc. "Ta không biết ta thuộc về gia tộc nào."
 

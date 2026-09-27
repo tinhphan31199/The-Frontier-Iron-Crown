@@ -1,7 +1,5 @@
 # CHƯƠNG 2 — PHÂN CẢNH 17: TRÁI TIM GOLEM
 
-*Giữa PC11 và PC12 — Louis cần một nguồn năng lượng cho kế hoạch vũ khí. Julian dẫn hắn đến một lò rèn bỏ hoang dưới chân núi lửa tắt.*
-
 ## I.
 
 "Ngươi chắc chắn về nơi này chứ?"

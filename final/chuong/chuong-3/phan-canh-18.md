@@ -1,7 +1,5 @@
 # CHƯƠNG 3 — PHÂN CẢNH 18: LỰA CHỌN CỦA WILLIAM
 
-*Đặt song song với PC14 — William giữa cha và lương tâm.*
-
 ## I.
 
 William Marcellus — hai mươi sáu tuổi, con trai cả của Đại Công tước, hôn phu của Helena — đã sống cả đời mình trong cái bóng của cha.

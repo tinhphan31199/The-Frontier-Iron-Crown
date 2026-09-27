@@ -1,7 +1,5 @@
 # CHƯƠNG 3 — PHÂN CẢNH 19: ĐÊM TRƯỚC ĐỊA NGỤC
 
-*Đặt trước PC15 — đêm trước trận tấn công pháo đài. Louis một mình với những ác mộng.*
-
 ## I.
 
 Đêm trước trận chiến cuối cùng, Louis không ngủ.

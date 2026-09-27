@@ -68,7 +68,7 @@ Julian nhìn nàng — và thở dài:
 
 "Thay đổi thế nào?"
 
-"Hắn — trở nên lạnh lùng hơn. Quyết đoán hơn. Như thể hắn biết trước mọi thứ — và đang đi theo một kế hoạch nào đó mà không ai hiểu."
+"Hắn — ít nói hơn. Ra lệnh ngắn hơn. Như thể hắn biết trước mọi thứ — và đang đi theo một kế hoạch nào đó mà không ai hiểu."
 
 Leonor im lặng. Nàng nhìn về phía hoàng cung — nơi ngọn đèn trong phòng Louis vẫn còn sáng:
 

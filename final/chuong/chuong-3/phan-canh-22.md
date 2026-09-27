@@ -18,7 +18,7 @@ Mattheo nhớ lại cái ngày hắn đứng trước tòa. Những bậc thềm
 
 Hắn đã chuẩn bị cho cái chết. Hắn đã viết thư từ biệt vợ con — dù hắn biết lá thư sẽ không bao giờ đến tay họ. Hắn đã nhắm mắt và chờ đợi.
 
-Rồi một giọng nói vang lên — trầm, bình tĩnh, lạnh lùng:
+Rồi một giọng nói vang lên — trầm, đều từng chữ, không một nhịp thừa:
 
 *"Xin lỗi làm gián đoạn phiên tòa. Tôi có một số thông tin có thể thay đổi phán quyết."*
 

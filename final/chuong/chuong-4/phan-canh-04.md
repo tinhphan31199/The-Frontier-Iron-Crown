@@ -72,7 +72,7 @@ Buổi trưa. Cánh cổng hoàng cung bị phá vỡ.
 
 Quân của các quý tộc tràn vào sân trong — và dừng lại.
 
-Trước mặt họ — Đại Công tước Aldric Marcellus, đứng trên bậc thềm của điện thờ. Hắn bị thương, mặt mày hốc hác, tay cầm một thanh kiếm gãy. Và xung quanh hắn — hàng trăm quý tộc phe đối lập, bị trói và xếp thành hàng, quỳ trên nền đá.
+Trước mặt họ — Đại Công tước Augustus Marcellus, đứng trên bậc thềm của điện thờ. Hắn bị thương, mặt mày hốc hác, tay cầm một thanh kiếm gãy. Và xung quanh hắn — hàng trăm quý tộc phe đối lập, bị trói và xếp thành hàng, quỳ trên nền đá.
 
 "Louis de la Croix!" Đại Công tước gầm lên. "Ngươi nghĩ ngươi đã thắng sao? Hãy nhìn xem — ta có con tin! Mỗi người trong số họ là một quý tộc, một gia tộc, một dòng máu! Nếu ngươi tấn công — ngươi sẽ giết chính những người ủng hộ ngươi!"
 

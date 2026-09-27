@@ -17,7 +17,7 @@ Louis khẽ đưa tay lên xoa thái dương. Dưới làn da nhợt nhạt thi�
 *Còn ba tiếng nữa là đến buổi họp. Ngủ một tiếng. Tắm. Cà phê đen gấp đôi. Ba mươi phút chỉnh slide. OK, kịp.*
 
 Anh lẩm bẩm một mình, như một thói quen. Không có ai trong căn phòng để nghe anh nói cả. Bạn gái anh đã chia tay từ sáu tháng trước, để lại một tờ giấy nhắn trên bàn bếp: *"Em hết chịu nổi rồi. Em không yêu một cái bóng mờ."* Bố mẹ anh ở dưới quê, mỗi năm gặp một lần vào Tết, lúc nào cũng nhìn anh với ánh mắt xa lạ. Bạn bè thân thiết? Những gương mặt đã mờ dần trong danh bạ điện thoại.
-s
+
 Cuộc đời của Louis chỉ gói gọn trong ba thứ: Những mô hình xác suất tài chính, những cốc cà phê đen không đường, và sự cô độc.
 
 Anh đưa tay định cầm cốc cà phê thứ năm trong ngày lên uống một ngụm. Và rồi mọi thứ xảy ra.

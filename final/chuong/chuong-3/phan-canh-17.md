@@ -1,10 +1,8 @@
 # CHƯƠNG 3 — PHÂN CẢNH 17: CON THÚ TRONG GÓC
 
-*Đặt sau PC13 — góc nhìn của Đại Công tước Aldric Marcellus khi nền kinh tế sụp đổ và ông ta bị dồn vào pháo đài cuối cùng.*
-
 ## I.
 
-Đại Công tước Aldric Marcellus — năm mươi bảy tuổi, từng là người đàn ông quyền lực nhất vương quốc — bây giờ ngồi trong phòng riêng của mình, trước một lò sưởi đã tắt lửa.
+Đại Công tước Augustus Marcellus — năm mươi bảy tuổi, từng là người đàn ông quyền lực nhất vương quốc — bây giờ ngồi trong phòng riêng của mình, trước một lò sưởi đã tắt lửa.
 
 Hắn không đủ tiền mua củi.
 

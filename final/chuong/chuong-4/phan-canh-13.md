@@ -1,7 +1,5 @@
 # CHƯƠNG 4 — PHÂN CẢNH 13: HOÀNG CUNG TRO TÀN
 
-*Giữa PC5 và PC6 — Louis khám phá hoàng cung đổ nát, trước khi bước vào mật thất.*
-
 ## I.
 
 Ngày đầu tiên làm vua, Louis không triệu tập triều đình. Không ban hành sắc lệnh. Không gặp bất kỳ ai.

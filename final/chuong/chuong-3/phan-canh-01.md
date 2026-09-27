@@ -76,7 +76,7 @@ Louis đặt chiếc sừng lên bàn. Ánh sáng xanh từ nó hắt lên khuô
 
 Louis giải thích. Giọng hắn đều đều, không cảm xúc — như thể hắn đang đọc một bản báo cáo tài chính, không phải đang vạch ra một kế hoạch có thể giết chết hàng ngàn người:
 
-"Trong Bản thảo Thần học có ghi chép về cơ chế vận hành của Sừng Leviathan. Nó không chỉ điều khiển dòng hải lưu — nó còn có một cơ chế phản phệ. Nếu sử dụng quá hai lần trong một chu kỳ trăng — nó sẽ kích hoạt một đợt động đất hủy diệt khu vực xung quanh người sử dụng."
+"Trong Bản thảo Thần học có ghi chép về cơ chế vận hành của Sừng Leviathan. Nó không chỉ điều khiển dòng hải lưu — nó còn có một cơ chế phản phệ. Nếu sử dụng quá hai lần trong một chu kỳ trăng (lịch trăng mục vụ mà Giáo hội vẫn dùng để tính lễ) — nó sẽ kích hoạt một đợt động đất hủy diệt khu vực xung quanh người sử dụng."
 
 Hắn dừng lại, nhìn từng người một:
 

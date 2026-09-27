@@ -2,7 +2,9 @@ Dưới đây là file tổng hợp dự án truyện đã được bổ sung l�
 
 ---
 
-# TỔNG HỢP DỰ ÁN TRUYỆN (BẢN CẬP NHẬT MỚI NHẤT)
+# TỔNG HỢP DỰ ÁN TRUYỆN (BẢN CANON DUY NHẤT — KẾT B)
+
+> **CANON 2026-09-27:** Kết B "Vòng lặp tiền định / Tự thiêu kết thúc vòng lặp" là kết chính thức. Bản A cũ đã bỏ. Bộ này là bản hoàn chỉnh duy nhất — mọi tình tiết nhịp dồn dập đã tích hợp trực tiếp trong các mục 2, 3, 5, 6, 13, không còn file bổ sung rời.
 
 > **Tựa đề:** Vương Miện Sắt Biên Thùy - The Frontier Iron Crown
 > **Thể loại:** Isekai (xuyên không), Chính trị - Kinh tế - Đấu trí, Kỳ ảo Trung Cổ, Anti-hero, Dark Fantasy, Vòng lặp bi kịch tiền định (Fated Tragic Loop)
@@ -42,6 +44,7 @@ Thế giới trung cổ giả tưởng mang màu sắc đen tối (Dark Fantasy)
 * **Di tích thần thoại (Relics):** Những cổ vật từ thời cổ xưa, thực chất đã bị "cơ giới hóa" thành những cỗ máy sinh học dưới bàn tay của Vua Sáng Lập — một người xuyên không từ thế kỷ trước.
 * **Học viện Hoàng gia:** Nơi chia rẽ sâu sắc giữa Trường phái Sức mạnh (quý tộc dùng võ lực) và Trường phái Trí tuệ (thường dân dùng mưu lược).
 * **Kinh tế tiền định:** Hệ thống tín dụng ngân hàng phức tạp nhưng đã bị giới quý tộc phong kiến bóp méo để củng cố quyền lực tối cao của chúng.
+* **Giáo hội & Thần thánh hóa di tích:** Giáo hội nắm luật pháp và lịch trăng mục vụ. Giáo lý cốt lõi: di tích là quà của thần ban cho dòng máu cao quý — chính điều này che giấu bản chất máy móc của chúng suốt 300 năm, và khiến mọi tri thức kỹ thuật của Vua Sáng Lập bị đọc thành "ý thần". Tội dị giáo = phủ nhận nguồn gốc thần thánh của di tích.
 
 ### 1.2 Nguyên tắc vận hành cốt lõi
 
@@ -149,14 +152,80 @@ Thế giới trung cổ giả tưởng mang màu sắc đen tối (Dark Fantasy)
 
 ---
 
-### 2.7 Đại Công tước — Boss tối cao của vương triều cũ
+### 2.7 Đại Công tước Augustus — Boss quân sự của vương triều cũ
 
 | Thuộc tính | Chi tiết |
 | --- | --- |
-| **Thân thế** | Kẻ nắm giữ binh quyền, cha của Julian, bố chồng hụt của Helena |
+| **Thân thế** | Tên đầy đủ Augustus Marcellus. Kẻ nắm giữ binh quyền, cha của Julian và William, bố chồng hụt của Helena |
 | **Ngoại hình** | Trung niên bảnh bao, tóc đỏ vuốt ngược, râu quai nón; mặc giáp xích dát vàng ngay trên nghị trường |
-| **Tính cách** | Tàn bạo, kiêu ngạo tột cùng; coi thường dân nghèo và phàm nhân không ma lực; tự mãn dựa vào dòng máu |
+| **Tính cách** | Tàn bạo, kiêu ngạo tột cùng; coi thường dân nghèo và phàm nhân không ma lực; tự mãn dựa vào dòng máu. Hóa điên sau khi mất hải quân, kinh tế sụp đổ và William bất tuân |
 | **Số phận** | Bị Louis và Julian tương kế tựu kế giật dây, cuối cùng bị xả tiễn hiến tế làm năng lượng thiêu rụi hoàng cung |
+
+---
+
+### 2.8 William Marcellus — Hôn phu Helena
+
+| Thuộc tính | Chi tiết |
+| --- | --- |
+| **Thân thế** | Con trưởng Augustus, hôn phu sắp đặt của Helena, có ma lực lửa yếu thích thị uy |
+| **Vai trò nhịp dồn dập** | Ch2 ép đóng thư viện (mất vùng an toàn Louis-Helena). Ch3 theo lệnh cha cướp Sừng qua Nix, thổi 1 lần chìm tàu Barret/Sila, treo xác khiêu khích. Ch3 PC18 từ chối mở cổng cho Julian dù biết cha sai — sống sót, mất tích sau chiến tranh. Augustus mất hải quân + kinh tế sụp + con trai bất tuân → hóa điên lôi Helena làm con tin Ch4 |
+| **Số phận** | Sống. Rời tường thành Cauldwin một mình sau khi từ chối cả hai phe |
+
+---
+
+### 2.9 Hoàng đế Edric III — Boss tiền
+
+| Thuộc tính | Chi tiết |
+| --- | --- |
+| **Thân thế** | Vua tại vị, không đánh mà khóa: đóng biên, quốc hữu hóa ngân hàng ngầm |
+| **Vai trò nhịp dồn dập** | Chiếu 7 ngày: sau 7 ngày giấy nợ ngân hàng ngầm thành giấy lộn (Julian tính / Erick rút vàng / Leonor ăn trong 7 ngày). Không dự ngày cháy, rời kinh bằng tàu đêm trước, để thư: "Vua Sáng Lập cũng từng nghĩ đốt là xong. Ta chờ xem ngươi đốt được gì." |
+| **Số phận** | POV Ch4 PC16 — biết mật thất nhưng không đủ can đảm, chết im lặng trong phòng riêng |
+
+---
+
+### 2.10 Đội Hydra — Roy / Karen / Toby
+
+| Thuộc tính | Chi tiết |
+| --- | --- |
+| **Vai trò** | Đội mạo hiểm giả trẻ thuê ở Ch1. Roy hứa "xong trả gấp đôi", Karen băng chân Louis, Toby mang bản đồ vẽ tay sai 2 ngày (nguyên nhân sai số Hydra). Chết 3 kiểu khác nhau: Roy bạo lực nhanh + dúi túi thuốc, Karen lặng lẽ bị kéo xuống hố, Toby hét "bản đồ sai rồi!" rồi hy sinh |
+| **Payoff** | Túi thuốc + mảnh vải Roy + tro trong hộp gỗ sồi. Flash mùi thuốc khi bỏ Cauldwin và xả tiễn. Đêm cuối đặt cạnh nhật ký rồi đốt cùng |
+
+---
+
+### 2.11 Phe giữa — Mama Vey / Ansel / Leonor giả
+
+| Thuộc tính | Chi tiết |
+| --- | --- |
+| **Mama Vey** | Hội trưởng Hiệp hội Thương gia. Không đánh thuế mà đánh tin đồn → bank run 1 đêm ở Ch2. Julian thức trắng trả tiền mặt, tay dính mực run |
+| **Giám mục Ansel** | Giáo hội gán Louis dị giáo ở Ch3. Lính Leonor dao động "Đánh cho quỷ à?" → Leonor chém cờ dị giáo giữ quân |
+| **Leonor giả** | Augustus dựng ở vương quốc láng giềng vô hiệu chính danh Leonor thật. Louis ngăn Leonor về quyết đấu: "Cô về là mất cảng. Để tôi mua triều đình láng giềng bằng nợ." |
+
+---
+
+### 2.12 Nix — Gián điệp
+
+| Thuộc tính | Chi tiết |
+| --- | --- |
+| **Thân thế** | Kế toán phụ của Julian, mẹ bị William bắt làm con tin → sao bản đồ sóng Sừng. Tay run đổ mực lộ tẩy, Julian tha nhưng giấu Louis → vết nứt Julian-Louis đầu tiên |
+| **Số phận** | Nhảy biển khi thấy tàu Barret chìm, để thư: "Em không làm toán được như anh." Julian giữ thư đến cuối, đốt cùng hoàng cung |
+
+---
+
+### 2.13 Bram / Sila — Hai phó
+
+| Thuộc tính | Chi tiết |
+| --- | --- |
+| **Bram** | Phó Leonor cụt tay, đòi đánh chính diện. Chết ở Cauldwin vì rút chậm 1 nhịp dụ địch → Leonor ôm xác mà không chửi Louis được vì lệnh đúng |
+| **Sila** | Thuyền trưởng tàu thứ 2 (Barret tàu chính). Mất 1 tàu vì William nhưng cứu sổ cổ đông → Erick nhận ra dân tin mình hơn vua → dám nhường ngôi |
+
+---
+
+### 2.14 Raymond + Jack — Hội Cành Ô Liu
+
+| Thuộc tính | Chi tiết |
+| --- | --- |
+| **Raymond** | Ông nội Louis. Đầu còn sống ra giá "đứa nào cho nó gạo là phản hội" để test. Chết Ch2 cuối, hội vỡ 3 phe (1 theo Augustus, 1 đòi bán Mắt Argus, 1 đòi giết Louis). Louis dẹp bằng sổ nợ |
+| **Jack** | Đầu mối Hội sau Raymond. Ch3 PC21 gửi tin tình báo. Ch4 ăn mày què của Hội dẫn cống cùng Giles: "Raymond dặn: nếu mày đến bước này, tức là mày cũng như Vua Sáng Lập. Đốt hết đi." |
 
 ---
 
@@ -205,7 +274,7 @@ Không ngồi chờ thời, Louis chủ động thiết kế các cạm bẫy b�
 
 Đế chế ngân hàng ngầm của Louis lớn mạnh, bắt đầu bóp nghẹt nền tài chính của triều đình cũ. Để phản công, Đại Công tước dùng gián điệp cấp cao đánh cắp di tích *Sừng Leviathan* (thánh tích điều khiển dòng biển) mà liên minh của Louis đang nắm giữ. Đại Công tước kích hoạt nó, tạo ra những trận sóng thần nhấn chìm toàn bộ hạm đội vận tải quặng sắt của Erick, đẩy liên minh của Louis vào cảnh phá sản và cận kề cái chết.
 
-Tuy nhiên, đây thực chất là cái bẫy tàn nhẫn do Louis chủ động giăng ra. Qua *Bản thảo Thần học*, Louis biết di tích này có cơ chế **phản phệ** kinh hoàng: nó sẽ gây ra động đất hủy diệt hòn đảo của kẻ sử dụng nếu không có máu hoàng gia tế lễ để bình ổn. Louis cố tình cài cắm thông tin giả để Đại Công tước sử dụng quá mức giới hạn. Đúng như tính toán, căn cứ hải quân chủ lực của phe phản diện bị sóng thần và động đất do chính họ tạo ra nuốt chửng hoàn toàn. Thừa thắng xông lên, Julian chính thức công khai tuyên bố cắt đứt quan hệ và phát động cuộc chiến lật đổ cha mình.
+Tuy nhiên, đây thực chất là cái bẫy tàn nhẫn do Louis chủ động giăng ra. Qua *Bản thảo Thần học*, Louis biết di tích này có cơ chế **phản phệ** kinh hoàng: dùng quá 2 lần trong một chu kỳ trăng sẽ gây động đất hủy diệt vùng người dùng. Louis cố tình cài cắm thông tin giả để Đại Công tước sử dụng quá mức giới hạn. Đúng như tính toán, căn cứ hải quân chủ lực của phe phản diện bị sóng thần và động đất do chính họ tạo ra nuốt chửng hoàn toàn. Thừa thắng xông lên, Julian chính thức công khai tuyên bố cắt đứt quan hệ và phát động cuộc chiến lật đổ cha mình.
 
 #### Rạn nứt liên minh & Sự đánh đổi tàn khốc
 
@@ -268,27 +337,27 @@ Các đồng minh cũ thất vọng và phẫn nộ tột cùng. Julian, Erick, 
 | **Bản thảo Thần học** | Công thức chế tạo thuốc súng, xi măng thô sơ | Máu của đội mạo hiểm giả (sơ sẩy đầu đời của Louis) | Chứa ghi chú tiếng Anh tốc ký của người đi trước |
 | **Trái tim Golem** | Lõi nhiệt lượng vĩnh cửu — vận hành lò rèn công nghiệp | Vận hành lò rèn liên tục — cần bảo trì mỗi 50 năm | **Tìm thấy ở:** Lò rèn bỏ hoang dưới chân núi lửa tắt (Ch2 PC17). Louis thuần hóa Golem canh giữ thay vì tiêu diệt. |
 | **Mắt Thần Argus** | Rada định vị toàn bản đồ, quét tình báo | Tiêu tốn lượng dầu vạc khổng lồ chiết xuất từ mỡ quái thú | **Tìm thấy ở:** Đền Argus trong hẻm núi phía tây (Ch2 PC18). Louis dùng gương phản xạ ánh sáng để vô hiệu hóa sinh vật mắt. Cho thấy hình ảnh Vua Sáng Lập. |
-| **Sừng Leviathan** | Điều khiển dòng hải lưu, bóp nghẹt cảng biển | **Phản phệ:** Gây động đất hủy diệt hòn đảo người dùng nếu thiếu máu hoàng gia hiến tế | Louis dùng phản phệ để bẫy Đại Công tước tự sát |
+| **Sừng Leviathan** | Điều khiển dòng hải lưu, bóp nghẹt cảng biển | **Phản phệ:** Dùng quá 2 lần trong một chu kỳ trăng (lịch trăng mục vụ của Giáo hội) → động đất hủy diệt vùng người dùng | Louis giấu luật phản phệ, nhử Augustus thổi lần 2 tự diệt căn cứ |
 | **Trái tim Phượng hoàng** | Ngọn lửa thiêu rụi cấm vệ quân | Đòi hỏi máu quý tộc có quyền lực thực sự hiến tế với số lượng lớn | Louis xả súng sát hại toàn bộ quý tộc phe đối lập để kích hoạt di tích |
 | **Nanh Rồng Băng** | Vũ khí cận chiến — không bao giờ cùn, đâm thủng mọi chất liệu | Không cần vận hành — là vũ khí tự nhiên | **Tìm thấy ở:** Đèo Nanh Tuyết (Ch3 PC23). Louis thương lượng với rồng băng — không chiến đấu. Tặng Nanh Rồng cho Leonor. |
 
 ---
 
-## 5. HỆ THỐNG PHE ĐỐI LẬP (4 GIAI ĐOẠN TIẾN HÓA)
+## 5. HỆ THỐNG PHE ĐỐI LẬP (4 GIAI ĐOẠN TIẾN HÓA — BẢN HOÀN CHỈNH)
 
-1. **Giai đoạn 1: Bạo lực thô sơ địa phương:** Các băng đảng, chủ nợ, cai ngục Giles. Louis dùng mưu mẹo sổ sách và thao túng giá cả nhu yếu phẩm để sinh tồn.
-2. **Giai đoạn 2: Độc quyền thương nghiệp:** Hiệp hội Thương gia Trung ương và quan lại triều đình dùng thuế, luật pháp để ép chết Louis. Louis đối phó bằng cách tạo ra hệ thống ngân hàng cổ phần, biến người dân bình dân thành cổ đông để biến liên minh của anh thành thực thể "quá lớn để sụp đổ" (Too big to fail).
-3. **Giai đoạn 3: Quân phiệt & Tôn giáo:** Đại Công tước và Giáo hội gán tội dị giáo cho Louis, cử quân đội vây hãm. Louis dùng chiến tranh tiền tệ (in tiền giả, phá giá tiền tệ đối phương) để quân địch tự rã ngũ trước khi giao chiến.
-4. **Giai đoạn 4: Hệ thống phong kiến & Vòng lặp lịch sử:** Đầu não hoàng cung đóng biên giới, phong tỏa ngân hàng. Louis dùng cú lật kèo của Giles để nội ứng ngoại hợp. Nhưng đối thủ thực sự cuối cùng của Louis không phải triều đình cũ, mà là **xu thế tha hóa tất yếu của bánh xe lịch sử 300 năm**.
+1. **Giai đoạn 1: Bạo lực thô sơ địa phương:** Các băng đảng, chủ nợ, cai ngục Giles. Louis dùng mưu mẹo sổ sách và thao túng giá muối Osteria để sinh tồn. Raymond test từ xa: "đứa nào cho nó gạo là phản hội."
+2. **Giai đoạn 2: Độc quyền thương nghiệp:** Hiệp hội Thương gia (Mama Vey) + quan lại triều đình. Mama Vey không đánh thuế mà đánh tin đồn → bank run 1 đêm, Julian trả tiền mặt giữ niềm tin. Louis biến dân thành cổ đông để thành "quá lớn để sụp đổ". William đóng thư viện, cắt vùng an toàn Louis-Helena.
+3. **Giai đoạn 3: Quân phiệt & Tôn giáo:** Augustus + William + Giáo hội Ansel + Leonor giả. Ansel gán dị giáo làm lính Leonor dao động → Leonor chém cờ giữ quân. Leonor giả vô hiệu chính danh → Louis mua triều đình láng giềng bằng nợ. William cướp Sừng qua Nix, thổi chìm tàu Barret/Sila → Augustus dùng quá mức kích phản phệ tự diệt 2.000 quân. Cauldwin làm mồi (Bram chết chậm 1 nhịp), siêu lạm phát 6 tháng đốt tiền sưởi.
+4. **Giai đoạn 4: Hệ thống phong kiến & Vòng lặp lịch sử:** Edric III đóng biên + chiếu 7 ngày quốc hữu hóa ngân hàng. Giles + ăn mày què Hội mở cống. Augustus mất hải quân, kinh tế sụp, William bất tuân → hóa điên, lôi Helena làm con tin, chết xả tiễn hiến tế Phượng hoàng. Đối thủ cuối không phải triều đình mà là **tha hóa tất yếu 300 năm** — Louis làm bạo chúa giả để đốt vòng lặp.
 
 ---
 
 ## 6. CÁC PLOT TWIST XƯƠNG SỐNG
 
-1. **Thân thế người ông — Chiếc hộp gỗ sồi & Sự rèn luyện tàn nhẫn:** Ông nội Raymond là người xuyên không thế hệ trước (hoặc cộng sự của Vua Sáng Lập), biết trước rằng Louis sẽ phải đối mặt với thế giới tàn khốc. Ông **cố tình ném Louis vào nghịch cảnh** — không dạy anh võ công, không để lại tài sản, chỉ để lại một mạng lưới tình báo đã phân rã và một **chiếc hộp gỗ sồi** rỗng. Ông muốn Louis tự mình xây dựng lại mọi thứ từ đống đổ nát. Chiếc hộp gỗ sồi là biểu tượng vật lý xuyên suốt: ban đầu đựng giấy tờ của Giles, sau đựng nắm tro tàn kỷ niệm của đội mạo hiểm giả, rồi đựng mật thư ở học viện, và là thứ duy nhất Louis ôm khư khư khi trốn vào xe cưới của Helena.
+1. **Thân thế người ông — Chiếc hộp gỗ sồi & Sự rèn luyện tàn nhẫn:** Ông nội Raymond là người của thế hệ trước — không phải người xuyên không (Vua Sáng Lập cách đây 300 năm, không thể có cộng sự còn sống), mà là **hậu duệ mang dòng máu** từng ghé Đền Argus 30 năm trước. Ông biết về di tích qua huyết mạch gia tộc và **cố tình ném Louis vào nghịch cảnh** — không dạy anh võ công, không để lại tài sản, chỉ để lại một mạng lưới tình báo đã phân rã và một **chiếc hộp gỗ sồi** rỗng. Ông muốn Louis tự mình xây dựng lại mọi thứ từ đống đổ nát. Chiếc hộp gỗ sồi là biểu tượng vật lý xuyên suốt: ban đầu đựng giấy tờ của Giles, sau đựng nắm tro tàn kỷ niệm của đội mạo hiểm giả, rồi đựng mật thư ở học viện, và là thứ duy nhất Louis ôm khư khư khi trốn vào xe cưới của Helena.
 2. **Cuộc gặp gỡ Leonor:** Louis chủ động dùng thông tin để giăng bẫy Leonor bằng mồi nhử hậu cần, ép cô làm cánh tay quân sự cho mình.
 3. **Trận Sừng Leviathan:** Louis cố tình để di tích bị đánh cắp nhằm kích hoạt cơ chế phản phệ tự sát của kẻ thù.
-4. **Mối tình Helena:** Two người yêu nhau bằng tên giả, vô tình mớm chiêu cho nhau để đối đầu kịch liệt ngoài đời thực.
+4. **Mối tình Helena:** Hai người yêu nhau bằng tên giả, vô tình mớm chiêu cho nhau để đối đầu kịch liệt ngoài đời thực.
 5. **Nhật ký dưới cung điện ngầm:** Vua Sáng Lập 300 năm trước là người hiện đại (thạc sĩ quản trị công), đã từng đi con đường hệt như Louis và thất bại trong việc cứu thế giới vì hệ thống phong kiến tha hóa.
 6. **Hành động bạo chúa của Louis:** Louis tự đóng vai bạo chúa, phản bội lại chính đồng minh của mình để hủy diệt vĩnh viễn chế độ phong kiến và thần thoại, kết thúc vòng lặp bi kịch.
 
@@ -312,6 +381,8 @@ Các đồng minh cũ thất vọng và phẫn nộ tột cùng. Julian, Erick, 
 * **Tiết chế sự đa tài của Louis:** Louis chỉ đưa khái niệm cốt lõi (Ngân hàng, thuyết trò chơi). Julian thức đêm tính toán số liệu, Erick lo vận hành gọi vốn, Leonor thực thi quân sự.
 
 ### 8.2 Lưu ý quan trọng khi triển khai viết văn (Prose-level instructions)
+
+> **Style-sheet khóa 2026-09-27 (không đổi nếu không họp):** Đại Công tước = Augustus Marcellus (giảng sư học viện = Aldric, khác người). Vua Sáng Lập = Hoàng tử Eldric / Nguyễn Văn Minh (có L, gắn với vương quốc Eldoria). Vua cũ = Edric II, Hoàng đế = Edric III (không L). Louis de la Croix = tên giấy tờ giả Hội làm (C2 PC1), không phải xác mượn. Xưng hô: C1 dùng "anh" (trước Hydra), từ C2 dùng "hắn" (sau trauma, mặt nạ lạnh) — đã nhất quán toàn bộ, không đổi ngược. Hạn chế "lạnh lùng/tĩnh lặng" dạng tell, thay bằng hành động thể chất. Mystery có chủ ý: mảnh giấy da cháy cùng hộp ở C4 PC10 (không giải mã — Louis đốt luôn câu hỏi); mặt kính C1 = Raymond (payoff ở C4 PC11 qua ký ức thân xác); "những người xuyên không trước đó" số nhiều = dư địa phần sau, không phải quên.
 
 1. **Show, Don't Tell (Thể hiện qua hành động, tránh kể lể):**
 * Đừng kể rằng "Louis dằn vặt", hãy tả anh run rẩy trước gương, nôn mửa trong bóng tối sau khi ra lệnh bỏ mặc một phần ba dân số chết đói.
@@ -413,7 +484,7 @@ Các đồng minh cũ thất vọng và phẫn nộ tột cùng. Julian, Erick, 
 
 1. **Độc thoại nội tâm là xương sống:** Louis không chỉ hành động — anh phân tích từng hành động trong đầu. Mỗi quyết định đều có lớp lang: tính toán lạnh lùng → cảm xúc dao động → dằn vặt → quyết tâm lạnh lùng hơn.
 2. **"Show, Don't Tell" tuyệt đối:** Không có câu "Louis buồn". Thay vào đó: tay anh run, anh nôn ra dịch mật xanh, mưa ngoài trời nghe như tiếng máu chảy.
-3. **Tận dụng tri thức hiện đại để kể truyện trung cổ:** Louis so sánh thế giới cũ với thế giới mới bằng ngôn ngữ của mình (Excel, tàichính, công nghệ). Điều này vừa tạo cá tính riêng, vừa cho độc giả thấy khoảng cách văn minh.
+3. **Tận dụng tri thức hiện đại để kể truyện trung cổ:** Louis so sánh thế giới cũ với thế giới mới bằng ngôn ngữ của mình (Excel, tài chính, công nghệ). Điều này vừa tạo cá tính riêng, vừa cho độc giả thấy khoảng cách văn minh.
 4. **Nhịp độ lên-giật-xuống:** Phân cảnh chậm xen kẽ phân cảnh nhanh. Không để độc giả quá thoải mái cũng không quá ngột ngạt.
 5. **Cài cắm foreshadowing ở mọi cấp độ:**
    * PC1: Khuôn mặt lạ trong kính, mảnh giấy da trong túi — gợi ý xuyên không có chủ đích.
@@ -558,7 +629,7 @@ Các đồng minh cũ thất vọng và phẫn nộ tột cùng. Julian, Erick, 
 | 15 | Trước cổng địa ngục (mở rộng) | Bình minh ngày tấn công. Leonor hùng biện. **Mở rộng kết: Louis bước qua xác chết — một đứa trẻ nằm bên đường, tay nắm bánh mì. Hắn không dừng lại. "Mày không có quyền sụp đổ."** |
 | — | — | — |
 | **16** | **Bên trong Cauldwin** | **Góc nhìn thường dân Marta — goá chồng, hai con. Chị bán nhẫn cưới lấy ổ bánh mì đen. Thấy người treo cổ. Đứa con gái Lina không đứng dậy được. Chị đào đường cống tẩu thoát — bị tên lính bắn chết ngay khi ra đến cửa. Jakob đứng nhìn mẹ chết, tay nắm tay em. Không ai biết tên họ.** |
-| **17** | **Tuyệt vọng của Đại Công tước** | **POV Đại Công tước Aldric: không đủ tiền mua củi. Nhìn lại ba tháng sụp đổ. William vào báo cáo. Đại Công tước thú nhận: "Ta không thể chỉ đường cho con nữa." William hỏi về sự tha thứ — không có câu trả lời.** |
+| **17** | **Tuyệt vọng của Đại Công tước** | **POV Đại Công tước Augustus: không đủ tiền mua củi. Nhìn lại ba tháng sụp đổ. William vào báo cáo. Đại Công tước thú nhận: "Ta không thể chỉ đường cho con nữa." William hỏi về sự tha thứ — không có câu trả lời.** |
 | **18** | **Lựa chọn của William** | **William đi tuần trên tường thành. Julian tiếp cận, tiết lộ sự thật về cha — vụ ám sát mẹ Julian, thảm sát Forthwaite. Đề nghị William mở cổng. William từ chối — chọn chiến đấu đến cùng vì không thể phản bội, dù biết cha sai.** |
 | **19** | **Đêm trước địa ngục** | **Đêm trước trận. Louis không ngủ — ác mộng Hydra chồng lấp những bàn tay kéo hắn xuống. Tỉnh dậy thấy mình đang khóc. Mở hộp gỗ sồi, giữ chiếc lông chim xanh. "Anh xin lỗi." Chờ bình minh.** |
 | **20** | **Giles: Người giữ ghế (MỚI)** | **Giles bị Đại Công tước thẩm vấn về Louis. Chọn nói dối một nửa sự thật. Tìm thấy cánh cửa ngách trong kho hậu cần — lá bài tẩy cho tương lai.** |
@@ -713,11 +784,29 @@ Chương 3 là chương **đen tối nhất** — nơi Louis chính thức vư�
 | Julian không có khoảnh khắc riêng với Louis trước khi nổi loạn | ✅ | Thêm PC15 (Julian biết sự thật) — gánh nặng giữ bí mật, "dù chuyện gì xảy ra" |
 | PC9 quá ngắn — 784 từ cho cảm xúc chính | ✅ | Mở rộng lên ~1.680 từ — thêm hồi tưởng, Helena đọc nhật ký, ôm nhau trong im lặng |
 
-### 13.6 Bổ sung luồng nhân vật phụ (Đợt 2)
+### 13.6 Tích hợp hoàn chỉnh — Nhịp dồn dập (Đợt 2+3, không còn file rời)
 
-| Vấn đề | Giải pháp | PC |
-| --- | --- | --- |
-| **Giles: từ cai ngục → Bộ trưởng — không thấy hành trình** | Thêm 2 cảnh: Ch2 PC16 (leo từ mỏ đá lên hậu cần), Ch3 PC20 (bị thẩm vấn, tìm cửa ngách) | Ch2-16, Ch3-20 |
-| **Jack / Hội Cành Ô Liu: biến mất sau Ch2** | Thêm Ch3 PC21 — Jack gửi tin tình báo. Kết nối lại mạng lưới với Louis. | Ch3-21 |
-| **Mattheo: từ tù nhân → lính — không thấy chuyển biến** | Thêm Ch3 PC22 — Mattheo học chiến đấu, Leonor bảo vệ hắn, Louis giao nhiệm vụ bảo vệ Leonor. | Ch3-22 |
-| **Hoàng đế: chỉ là cái bóng — không có số phận** | Thêm Ch4 PC16 — POV Edric III, biết về mật thất, chết im lặng trong phòng riêng. | Ch4-16 |
+> Luật nhịp áp cho toàn bộ prose: 1 cảnh = 1 đòn, vào trễ ra sớm. Louis cười → cắt sang địch ra đòn. Countdown vật lý (Hydra 47 nhịp, Sừng 3 lần thổi, chiếu Edric 7 ngày, lạm phát 6 tháng). Kết cảnh bằng câu hỏi hành động. PTSD flash 2 giây mùi/tay run/tiếng.
+
+#### A. Tuyến đã có trong prose (giữ nguyên, chỉ thêm vật neo)
+
+* **Giles:** Ch2 PC16 leo mỏ đá lên hậu cần → Ch3 PC20 bị Augustus thẩm vấn, tìm cửa ngách → Ch4 PC2 mở cống cùng ăn mày què Hội.
+* **Jack / Hội:** Ch3 PC21 gửi tin tình báo, mở hộp sồi nhìn mặt dây Raymond.
+* **Mattheo:** Ch3 PC22 từ thương nhân thành lính, Leonor bảo vệ, Louis dặn "Hãy bảo vệ Leonor."
+* **Edric III:** Ch4 PC1 chiếu đóng biên + quốc hữu hóa → Ch4 PC16 POV chết im lặng. Thêm đồng hồ 7 ngày: Julian tính / Erick rút vàng / Leonor ăn trong 7 ngày. Thư trên tàu: "Ta chờ xem ngươi đốt được gì."
+* **Roy/Karen/Toby:** giữ 3 kiểu chết ở 10.1. Thêm túi thuốc Roy dúi tay + bản đồ sai Toby hét "bản đồ sai rồi!". Hộp sồi đựng túi thuốc + vải + tro. Flash mùi thuốc ở Ch3 PC7-9 và Ch4 PC4. Đêm cuối đốt cùng nhật ký.
+
+#### B. Tuyến nâng từ vai mờ thành đòn (đã chốt tên final)
+
+* **William Marcellus:** Ch2 đóng thư viện → Ch3 cướp Sừng qua Nix, thổi chìm tàu Barret/Sila, treo xác khiêu khích (Erick đòi đánh, Louis giữ bẫy) → Ch3 PC18 từ chối mở cổng, sống sót rời tường thành. Augustus mất kiểm soát con trai + mất hải quân → hóa điên. Chèn vào Ch3 PC2-4 + PC18.
+* **Raymond:** Ch1 test "đứa nào cho gạo là phản hội" → Ch2 cuối chết, hội vỡ 3 phe 1 đêm mưa, Louis dẹp bằng sổ nợ ("Ai theo xóa nợ. Ai bán tao, tao bán tuyến mày trước.") → Ch4 ăn mày què dẫn cống: "Đốt hết đi." Chèn vào Ch2 PC16 + Ch3 PC21.
+* **Mama Vey:** Ch2 bank run 1 đêm bằng tin đồn ở PC10-11. Julian trả tiền mặt giữ niềm tin.
+* **Ansel:** Ch3 gán dị giáo ở PC6/PC15. Leonor chém cờ giữ quân.
+* **Leonor giả:** Ch3 PC6-7. Louis mua triều đình láng giềng bằng nợ, ngăn Leonor về.
+* **Nix:** Ch3 PC2 sao chép run tay đổ mực → Julian giấu → Ch3 PC4 nhảy biển để thư 1 dòng, Julian đốt cùng cung.
+* **Bram:** Ch3 PC7-9 chết chậm 1 nhịp cạnh Mattheo sống ở PC22.
+* **Sila:** Ch3 PC3 tàu thứ 2 mất nhưng cứu sổ cổ đông → Erick dám nhường ngôi.
+
+#### C. Timeline chèn cuối (khóa để viết prose)
+
+C1 PC8-10: túi thuốc + bản đồ sai + test Raymond → C2 PC10-11+16: bank run + William đóng thư viện + Nix run tay + hội vỡ → C3 PC2-4: cướp Sừng → chìm tàu → phản phệ → C3 PC6-9: dị giáo + Leonor giả + Bram chết + bỏ Cauldwin → C3 PC20-22: cửa ngách + tin Jack + Mattheo/Bram → C4 PC1+16: chiếu 7 ngày + thư tàu → C4 PC2-4: cống + William chết + xả tiễn + mật thất → C4 PC9-10: đốt túi thuốc + thư Nix cùng nhật ký.

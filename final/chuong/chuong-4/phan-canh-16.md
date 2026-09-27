@@ -1,7 +1,5 @@
 # CHƯƠNG 4 — PHÂN CẢNH 16: HOÀNG ĐẾ — NGÀY CUỐI CÙNG
 
-*Song song với PC1-PC4 — góc nhìn của vị hoàng đế bù nhìn trước khi hoàng cung sụp đổ.*
-
 ## I.
 
 Hoàng đế Edric III — người trị vì danh nghĩa của vương quốc — ngồi trong phòng riêng khi nghe tiếng la hét từ ngoài hành lang.
@@ -48,7 +46,7 @@ Khi tên lính chạy đi, Edric đứng dậy.
 
 Edric đã nhìn thấy sự giống nhau từ lâu. Ông đã biết về cuốn nhật ký dưới mật thất. Ông đã đọc nó — nhiều năm trước, khi còn trẻ, khi còn tin rằng ông có thể thay đổi điều gì đó.
 
-Nhưng ông không có đủ can đảm. Ông không có đủ sức mạnh. Ông đã chọn làm cái bóng — và để thế giới tự hủy hoại mình.
+Nhưng ông không có đủ can đảm. Ông không có đủ sức mạnh — quân đội nằm trong tay Augustus, di tích nằm trong tay các gia tộc, còn ông chỉ có con dấu. Ông đã chọn làm cái bóng — và để thế giới tự hủy hoại mình.
 
 Bây giờ, một người đàn ông khác từ thế giới khác đang làm điều mà ông không thể. Một kẻ đang thiêu rụi hoàng cung — để xây dựng lại từ đống tro tàn.
 

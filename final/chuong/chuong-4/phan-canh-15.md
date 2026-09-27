@@ -1,7 +1,5 @@
 # CHƯƠNG 4 — PHÂN CẢNH 15: JULIAN BIẾT SỰ THẬT
 
-*Giữa PC8 và PC9 — Julian lẻn vào phòng Louis giữa đêm.*
-
 ## I.
 
 Julian đợi đến nửa đêm.
