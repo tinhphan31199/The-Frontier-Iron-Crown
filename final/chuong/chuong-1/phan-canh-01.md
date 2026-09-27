@@ -4,7 +4,7 @@
 
 Văn phòng tầng bốn mươi bảy của tòa tháp Centennial vẫn sáng đèn vào lúc ba giờ sáng.
 
-Bên ngoài lớp kính cường lực dày mười lăm milimet, thành phố Thượng Hải đang ngủ say dưới màn mưa axit nhẹ và những tấm biển LED khổng lồ vẫn nhấp nháy những quảng cáo tiền điện tử vô hồn. Nhưng bên trong căn phòng kín không cửa sổ với hệ thống điều hòa trung tâm luôn duy trì ở mức hai mươi hai độ C khô khốc, Nguyễn Hoàng Louis — chuyên viên quản trị rủi ro cấp cao của một quỹ đầu tư quốc tế — đang nhìn chằm chằm vào ba màn hình máy tính trải dài trước mặt.
+Bên ngoài lớp kính cường lực dày mười lăm milimet, thành phố Thượng Hải đang ngủ say dưới màn mưa nhẹ và những tấm biển LED khổng lồ vẫn nhấp nháy những quảng cáo tiền điện tử vô hồn. Nhưng bên trong căn phòng kín không cửa sổ với hệ thống điều hòa trung tâm luôn duy trì ở mức hai mươi hai độ C khô khốc, Louis — chuyên viên quản trị rủi ro cấp cao của một quỹ đầu tư quốc tế — đang nhìn chằm chằm vào ba màn hình máy tính trải dài trước mặt.
 
 Màn hình thứ nhất: Mô hình Black-Scholes biến động dữ dội, các đường cong giá trị rủi ro ngoằn ngoèo đỏ rực.
 
@@ -17,8 +17,8 @@ Louis khẽ đưa tay lên xoa thái dương. Dưới làn da nhợt nhạt thi�
 *Còn ba tiếng nữa là đến buổi họp. Ngủ một tiếng. Tắm. Cà phê đen gấp đôi. Ba mươi phút chỉnh slide. OK, kịp.*
 
 Anh lẩm bẩm một mình, như một thói quen. Không có ai trong căn phòng để nghe anh nói cả. Bạn gái anh đã chia tay từ sáu tháng trước, để lại một tờ giấy nhắn trên bàn bếp: *"Em hết chịu nổi rồi. Em không yêu một cái bóng mờ."* Bố mẹ anh ở dưới quê, mỗi năm gặp một lần vào Tết, lúc nào cũng nhìn anh với ánh mắt xa lạ. Bạn bè thân thiết? Những gương mặt đã mờ dần trong danh bạ điện thoại.
-
-Cuộc đời của Nguyễn Hoàng Louis chỉ gói gọn trong ba thứ: Những mô hình xác suất tài chính, những cốc cà phê đen không đường, và sự cô độc vĩnh cửu.
+s
+Cuộc đời của Louis chỉ gói gọn trong ba thứ: Những mô hình xác suất tài chính, những cốc cà phê đen không đường, và sự cô độc.
 
 Anh đưa tay định cầm cốc cà phê thứ năm trong ngày lên uống một ngụm. Và rồi mọi thứ xảy ra.
 
@@ -94,7 +94,7 @@ Nhưng có một điều anh biết chắc chắn: Không có sự trùng hợp 
 
 *Lần này, tôi sẽ không chết trong vô danh.*
 
-Đó là lời hứa đầu tiên mà Nguyễn Hoàng Louis tự nhủ với bản thân trong thế giới mới — khi chiếc xe tị nạn rệu rã tiếp tục lăn bánh về phía những vách đá vôi trắng xóa của mỏ đá biên thùy.
+Đó là lời hứa đầu tiên mà Louis tự nhủ với bản thân trong thế giới mới — khi chiếc xe tị nạn rệu rã tiếp tục lăn bánh về phía những vách đá vôi trắng xóa của mỏ đá biên thùy.
 
 Rồi anh sờ thấy một thứ trong túi áo — một vật nhỏ, cứng, không phải của anh. Anh lôi nó ra. Một mảnh giấy da nhỏ, cũ kỹ, gấp làm tư, trên đó có vài nét chữ nguệch ngoạc bằng một thứ ngôn ngữ anh không hiểu. Nó nằm trong túi áo của thân xác tị nạn này từ lúc nào — như thể ai đó đã đặt nó vào đó, chờ anh tìm thấy.
 

@@ -18,7 +18,7 @@ Anh đã giữ nó từ lúc tỉnh dậy, nhưng chưa bao giờ thực sự d�
 
 Mặt dây chuyền bằng đồng rỉ sét, khắc hình một cành ô liu cách điệu. Những đường nét đã mờ vì thời gian và mồ hôi, nhưng vẫn đủ rõ để nhận ra một bàn tay nghệ nhân tài hoa đã làm ra nó — một bàn tay không phải của thợ thường.
 
-Anh nhìn nó hồi lâu, và những mảnh ký ức bắt đầu ùa về — không phải ký ức của Nguyễn Hoàng Louis, kẻ từng sống ở Thượng Hải, mà là ký ức của một kẻ khác, một kẻ đã chết trước khi Louis chiếm lấy thân xác này.
+Anh nhìn nó hồi lâu, và những mảnh ký ức bắt đầu ùa về — không phải ký ức của Louis, kẻ từng sống ở Thượng Hải, mà là ký ức của một kẻ khác, một kẻ đã chết trước khi Louis chiếm lấy thân xác này.
 
 Một khuôn mặt già nua, phúc hậu, với đôi mắt sáng ngời và một nụ cười bí ẩn. Một giọng nói khàn khàn kể chuyện cổ tích bên lò sưởi. Những cuộn giấy da phủ đầy bụi — những thứ mà người ông để lại trước khi mất. Và một mặt dây chuyền bằng đồng — chính mặt dây chuyền này — được đặt vào tay cậu bé Louis khi ông hấp hối, cùng với những lời cuối cùng:
 
@@ -34,7 +34,7 @@ Một mảnh ký ức khác hiện ra — buổi chiều mưa, khi cậu bé Lou
 
 *"Sau này cháu có rơi xuống vực, ông sẽ không cứu cháu đâu. Không phải ông không thương. Mà vì nếu cháu không tự bò lên được, thì cháu cũng chẳng xứng ngồi trên đỉnh."*
 
-Lúc đó, Louis — kẻ cũ — tưởng ông kể chuyện cổ tích. Nhưng giờ đây, Nguyễn Hoàng Louis ngồi bên vệ đường với đôi chân rách nát, mười đồng bạc trong túi và mặt dây chuyền trong tay, bỗng cảm thấy một sự thật kinh hoàng phơi bày:
+Lúc đó, Louis — kẻ cũ — tưởng ông kể chuyện cổ tích. Nhưng giờ đây, Louis ngồi bên vệ đường với đôi chân rách nát, mười đồng bạc trong túi và mặt dây chuyền trong tay, bỗng cảm thấy một sự thật kinh hoàng phơi bày:
 
 *Ông biết trước. Ông biết ta sẽ rơi vào thế giới này. Ông biết ta phải bắt đầu từ đáy. Ông không dạy ta võ công — bởi ông muốn ta dùng tri thức hiện đại của chính mình.*
 

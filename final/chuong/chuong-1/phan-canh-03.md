@@ -66,7 +66,7 @@ Giles không còn lựa chọn nào khác. Hoặc tin Louis, hoặc chết.
 
 Anh vừa viết vừa độc thoại trong đầu:
 
-*Mày thấy không, Nguyễn Hoàng Louis? Bộ não của mày vẫn hoạt động. Không cần Excel. Không cần máy tính. Chỉ cần một mô hình kinh tế vĩ mô trong đầu và một bàn tay biết viết. Kỹ năng mày mất mười năm để rèn ở thế giới kia — giờ đây có thể đổi lấy mạng sống ở thế giới này.*
+*Mày thấy không, Louis? Bộ não của mày vẫn hoạt động. Không cần Excel. Không cần máy tính. Chỉ cần một mô hình kinh tế vĩ mô trong đầu và một bàn tay biết viết. Kỹ năng mày mất mười năm để rèn ở thế giới kia — giờ đây có thể đổi lấy mạng sống ở thế giới này.*
 
 Anh lật một trang sổ, viết nốt dòng cuối cùng. Dưới ngọn nến vàng vọt, những con số hiện ra chuẩn xác. Từng đồng bạc ăn cắp của Giles đã được tái sinh dưới dạng những chi phí "hao mòn thiết bị" và "điều chỉnh tồn kho" hoàn toàn hợp pháp.
 
